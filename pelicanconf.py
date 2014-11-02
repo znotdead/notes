@@ -32,6 +32,15 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+# https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
 THEME = 'pelican-bootstrap3'
+CUSTOM_CSS = 'static/css/main.css'
+STATIC_PATHS = ['static']
+SOCIAL = ()
+LINKS = ()
 # http://pygments.org/demo/218030/
-PYGMENTS_STYLE = 'vim'
+#PYGMENTS_STYLE = 'vim'
+PYGMENTS_STYLE = 'monokai'
+MD_EXTENSIONS = ['nl2br']
+
+

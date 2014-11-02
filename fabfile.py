@@ -71,3 +71,8 @@ def publish():
         delete=True,
         extra_opts='-c',
     )
+
+GITHUB_LOCAL_REPO = '../../znotdead.github.io/'
+def deploy_github():
+    local('pelican content -o %s -s pelicanconf.py' % GITHUB_LOCAL_REPO)
+    local('cd %s && git add * && git commit -m "deploy" && git push' % GITHUB_LOCAL_REPO)

@@ -18,6 +18,11 @@ env.cloudfiles_username = 'my_rackspace_username'
 env.cloudfiles_api_key = 'my_rackspace_api_key'
 env.cloudfiles_container = 'my_cloudfiles_container'
 
+DROPBOX_FOLDER = os.path.join(os.getenv('HOME'), 'dropbox/Dropbox/content/')
+GIT_FOLDER = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'content/')
+RSYNC_COMMAND = 'rsync -abuP --exclude *.swp --exclude *~'
+GITHUB_LOCAL_REPO = '../../znotdead.github.io/'
+LOCK_FILE = 'need_manual_commit.lock'
 
 def clean():
     if os.path.isdir(DEPLOY_PATH):
@@ -72,7 +77,17 @@ def publish():
         extra_opts='-c',
     )
 
-GITHUB_LOCAL_REPO = '../../znotdead.github.io/'
 def deploy_github():
+    # quit if lock exists
+    with settings(warn_only=True):
+        if not local('test -f %s' % LOCK_FILE).failed:
+            print 'Need manual commit. Do not forget to remove lock.'
+            return
+
     local('pelican content -o %s -s pelicanconf.py' % GITHUB_LOCAL_REPO)
     local('cd %s && git add * && git commit -m "deploy" && git push' % GITHUB_LOCAL_REPO)
+
+def rsync_with_dropbox():
+    local('%s %s %s' % (RSYNC_COMMAND, DROPBOX_FOLDER, GIT_FOLDER))
+    local('%s %s %s' % (RSYNC_COMMAND, GIT_FOLDER, DROPBOX_FOLDER))
+    local('touch %s' % LOCK_FILE)

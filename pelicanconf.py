@@ -26,6 +26,9 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
+SOCIAL = ()
+
+USE_FOLDER_AS_CATEGORY = True
 
 DEFAULT_PAGINATION = 10
 
@@ -36,7 +39,6 @@ DEFAULT_PAGINATION = 10
 THEME = 'pelican-bootstrap3'
 CUSTOM_CSS = 'static/css/main.css'
 STATIC_PATHS = ['static']
-SOCIAL = ()
 LINKS = ()
 # http://pygments.org/demo/218030/
 #PYGMENTS_STYLE = 'vim'

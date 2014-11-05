@@ -2,7 +2,7 @@ Title: Крылатые качели.
 Date: 2014-11-05 14:33
 Modified: 
 Category: Songs
-Tags: т/ф, детские песенки
+Tags: к/ф, детские песенки
 Slug: krylatye_kacheli
 Lang: ru
 Authors: znotdead

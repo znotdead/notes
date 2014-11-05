@@ -1,7 +1,7 @@
 Title: Тыквенный суп-пюре
 Date: 2014-11-01 16:20
 Modified:
-Category: Recepies
+Category: Recipes
 Tags: суп, суп-пюре
 Slug: soup_pure_tykva
 Lang: ru
@@ -32,7 +32,7 @@ Summary: Тыквенный суп-пюре
 7. Подавать с сухариками и зеленью
 
 **Вариации**
+
 с морковкой
 с фасолью
-
 

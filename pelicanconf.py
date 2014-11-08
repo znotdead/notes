@@ -35,8 +35,8 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-# https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3
-THEME = 'pelican-bootstrap3'
+# https://github.com/znotdead/pelican-themes/tree/master/pelican-bootstrap3
+THEME = '../pelican-bootstrap3/'
 CUSTOM_CSS = 'static/css/main.css'
 STATIC_PATHS = ['static']
 LINKS = ()
@@ -46,3 +46,11 @@ PYGMENTS_STYLE = 'monokai'
 MD_EXTENSIONS = ['nl2br']
 
 
+# Plugins
+#from pelican_tag_cloud_by_category import tag_cloud_by_category
+PLUGIN_PATHS = ['../pelican_tag_cloud_by_category/',]
+PLUGINS = ['tag_cloud_by_category', ]
+
+DISPLAY_TAGS_FOR_CATEGORY = True
+
+#DISPLAY_TAGS_INLINE = True

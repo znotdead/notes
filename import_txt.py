@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #-*- coding: utf-8 -*-
 import re
 import os
@@ -8,13 +9,15 @@ from collections import OrderedDict
 from slugify import UniqueSlugify
 
 BASE_DIR = os.path.dirname(__file__)
-CONTENT_DIR = os.path.join(BASE_DIR, 'content/songs')
+CONTENT_DIR = os.path.join(BASE_DIR, 'content')
 
 empty_string = re.compile('\s')
 
 
 class SlugUIDS(object):
-    def __init__(self):
+    def __init__(self, fname):
+        self.category = self.get_category_name(fname)
+        self.category_dir = os.path.join(CONTENT_DIR, self.category)
         self.uids = self.get_uids()
 
     def get_file_slug(self, fname):
@@ -36,13 +39,19 @@ class SlugUIDS(object):
 
     def get_uids(self):
         uids = []
-        os.path.walk(CONTENT_DIR, self.get_files_slug, uids)
+        os.path.walk(self.category_dir, self.get_files_slug, uids)
         return uids
+
+    def get_category_name(self, fname):
+        return os.path.split(os.path.dirname(fname))[1]
 
 
 class TxtParser(object):
     def __init__(self, fname, slug_uids):
         self.fname = fname
+        self.slug_uids = slug_uids
+        self.category = self.slug_uids.category
+        self.category_dir = self.slug_uids.category_dir
         with open(fname) as f:
             self.title = f.readline().strip().decode('utf-8')
             self.summary = f.readline().strip().decode('utf-8')
@@ -64,6 +73,8 @@ class MdGenerator(object):
             (u'Authors', u'znotdead'),
             (u'Summary', None),
         ])
+        print self.txt_parser.title
+        print self.txt_parser.summary
         self.summary_input = raw_input(u'Summary: ')
         self.tags_input = raw_input(u'Tags: ')
 
@@ -71,15 +82,13 @@ class MdGenerator(object):
         self.template[u'Title'] = self.txt_parser.title
 
     def set_category(self):
-        # TODO: make it custom
-        self.template[u'Category'] = u'Songs'
+        self.template[u'Category'] = self.txt_parser.category.capitalize()
 
     def set_tags(self):
         if self.tags_input:
             tags = self.tags_input.decode('utf-8').split(',')
         else:
             tags = []
-        tags.append(u'детские песенки')
         self.template[u'Tags'] = ', '.join(tags)
 
     def set_slug(self):
@@ -123,10 +132,12 @@ class MdGenerator(object):
 
     def save_result(self):
         self.generate_result()
-        with open(os.path.join(CONTENT_DIR, self.filename), 'wb') as f:
+        # TODO: make check if file exists before write
+        with open(os.path.join(self.txt_parser.category_dir, self.filename), 'wb') as f:
             f.write(self.header.encode('utf-8'))
             f.write(u'\n\n')
             f.write(self.content.encode('utf-8'))
+            print u'Output file: %r' % f.name
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process file.')
@@ -134,7 +145,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     fname = args.filename
-    slug_uids = SlugUIDS()
+    slug_uids = SlugUIDS(fname)
     txt_parser = TxtParser(fname, slug_uids)
 
     mdgen = MdGenerator(txt_parser)

@@ -40,6 +40,12 @@ THEME = '../pelican-bootstrap3/'
 CUSTOM_CSS = 'static/css/main.css'
 STATIC_PATHS = ['static']
 LINKS = ()
+
+FAVICON = 'static/img/ico/logo.png'
+SITELOGO = 'static/img/ico/logo.png'
+SITELOGO_SIZE = 50
+TOUCHICON = 'static/img/ico/logo.png'
+CATEGORIES_LOGO = True
 # http://pygments.org/demo/218030/
 #PYGMENTS_STYLE = 'vim'
 PYGMENTS_STYLE = 'monokai'

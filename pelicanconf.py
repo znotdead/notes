@@ -51,6 +51,7 @@ CATEGORIES_LOGO = True
 PYGMENTS_STYLE = 'monokai'
 MD_EXTENSIONS = ['nl2br']
 
+DISPLAY_CATEGORIES_ARTICLES_AS_LIST = ('songs', )
 
 # Plugins
 #from pelican_tag_cloud_by_category import tag_cloud_by_category

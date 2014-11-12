@@ -2,7 +2,7 @@ Title: Рыжий, рыжий, конопатый
 Date: 2014-11-05 14:48
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Веселая карусель
 Slug: ryzhii_ryzhii_konopatyi
 Lang: ru
 Authors: znotdead

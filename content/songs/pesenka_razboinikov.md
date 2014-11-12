@@ -2,7 +2,7 @@ Title: Песенка разбойников
 Date: 2014-11-05 14:45
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Бременские музыканты
 Slug: pesenka_razboinikov
 Lang: ru
 Authors: znotdead

@@ -2,7 +2,7 @@ Title: Королевская охрана
 Date: 2014-11-05 14:39
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Бременские музыканты
 Slug: korolevskaia_okhrana
 Lang: ru
 Authors: znotdead

@@ -2,7 +2,7 @@ Title: Елочка.
 Date: 2014-11-05 14:25
 Modified: 
 Category: Songs
-Tags: детские песенки
+Tags: детские песенки, новогодняя
 Slug: elochka
 Lang: ru
 Authors: znotdead

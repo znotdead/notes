@@ -2,7 +2,7 @@ Title: Антошка
 Date: 2014-11-05 14:12
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Веселая карусель
 Slug: antoshka
 Lang: ru
 Authors: znotdead

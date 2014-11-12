@@ -2,7 +2,7 @@ Title: Два веселых гуся
 Date: 2014-11-05 14:23
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Веселая карусель
 Slug: dva_veselykh_gusia
 Lang: ru
 Authors: znotdead

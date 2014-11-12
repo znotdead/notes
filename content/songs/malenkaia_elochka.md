@@ -2,7 +2,7 @@ Title: Маленькая елочка
 Date: 2014-11-05 14:25
 Modified: 
 Category: Songs
-Tags: детские песенки
+Tags: детские песенки, новогодняя
 Slug: malenkaia_elochka
 Lang: ru
 Authors: znotdead

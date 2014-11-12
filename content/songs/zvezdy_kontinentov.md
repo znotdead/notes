@@ -2,7 +2,7 @@ Title: Звезды континентов
 Date: 2014-11-06 21:01
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Бременские музыканты
 Slug: zvezdy_kontinentov
 Lang: ru
 Authors: znotdead

@@ -2,7 +2,7 @@ Title: До чего дошел прогресс
 Date: 2014-11-05 14:43
 Modified: 
 Category: Songs
-Tags: к/ф, детские песенки
+Tags: к/ф, детские песенки, Приключения Электроника
 Slug: do_chego_doshel_progress
 Lang: ru
 Authors: znotdead

@@ -2,7 +2,7 @@ Title: Кабы не было зимы.
 Date: 2014-11-05 14:28
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Простоквашино
 Slug: kaby_ne_bylo_zimy
 Lang: ru
 Authors: znotdead

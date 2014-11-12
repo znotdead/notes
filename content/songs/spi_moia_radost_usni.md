@@ -2,7 +2,7 @@ Title: Спи, моя радость, усни
 Date: 2014-11-06 21:01
 Modified: 
 Category: Songs
-Tags: детские песенки
+Tags: детские песенки, колыбельная
 Slug: spi_moia_radost_usni
 Lang: ru
 Authors: znotdead

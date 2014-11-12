@@ -2,7 +2,7 @@ Title: Колыбельная медведицы
 Date: 2014-11-05 14:31
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, колыбельная
 Slug: kolybelnaia_medveditsy
 Lang: ru
 Authors: znotdead

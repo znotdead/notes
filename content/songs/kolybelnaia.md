@@ -2,7 +2,7 @@ Title: Колыбельная
 Date: 2014-11-05 14:30
 Modified: 
 Category: Songs
-Tags: детские песенки
+Tags: детские песенки, колыбельная
 Slug: kolybelnaia
 Lang: ru
 Authors: znotdead

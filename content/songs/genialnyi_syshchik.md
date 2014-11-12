@@ -2,7 +2,7 @@ Title: Гениальный сыщик
 Date: 2014-11-05 14:50
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Бременские музыканты
 Slug: genialnyi_syshchik
 Lang: ru
 Authors: znotdead

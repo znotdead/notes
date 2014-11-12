@@ -2,7 +2,7 @@ Title: Спят усталые игрушки
 Date: 2014-11-05 14:49
 Modified: 
 Category: Songs
-Tags: детские песенки
+Tags: детские песенки, колыбельная
 Slug: spiat_ustalye_igrushki
 Lang: ru
 Authors: znotdead

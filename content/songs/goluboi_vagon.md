@@ -2,7 +2,7 @@ Title: Голубой вагон.
 Date: 2014-11-05 14:26
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Чебурашка
 Slug: goluboi_vagon
 Lang: ru
 Authors: znotdead

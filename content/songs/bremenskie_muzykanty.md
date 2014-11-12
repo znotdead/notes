@@ -2,7 +2,7 @@ Title: Бременские музыканты
 Date: 2014-11-05 14:17
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Бременские музыканты
 Slug: bremenskie_muzykanty
 Lang: ru
 Authors: znotdead

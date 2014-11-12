@@ -2,7 +2,7 @@ Title: День рождения
 Date: 2014-11-05 14:47
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Чебурашка
 Slug: den_rozhdeniia
 Lang: ru
 Authors: znotdead

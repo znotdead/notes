@@ -2,7 +2,7 @@ Title: Добрым быть на белом свете веселей
 Date: 2014-11-06 21:02
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Леопольд
 Slug: dobrym_byt_na_belom_svete_veselei
 Lang: ru
 Authors: znotdead

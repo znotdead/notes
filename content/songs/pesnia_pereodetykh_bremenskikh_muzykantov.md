@@ -2,7 +2,7 @@ Title: Песня переодетых Бременских музыкантов
 Date: 2014-11-05 14:46
 Modified: 
 Category: Songs
-Tags: м/ф, детские песенки
+Tags: м/ф, детские песенки, Бременские музыканты
 Slug: pesnia_pereodetykh_bremenskikh_muzykantov
 Lang: ru
 Authors: znotdead

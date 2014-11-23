@@ -38,6 +38,11 @@ DEFAULT_PAGINATION = 10
 # https://github.com/znotdead/pelican-themes/tree/master/pelican-bootstrap3
 THEME = '../pelican-bootstrap3/'
 CUSTOM_CSS = 'static/css/main.css'
+CUSTOM_JS = [
+    'static/js/jquery-latest.js',
+    'static/js/jquery.tablesorter.min.js',
+    'static/js/main.js',
+]
 STATIC_PATHS = ['static']
 LINKS = ()
 
@@ -49,7 +54,7 @@ CATEGORIES_LOGO = True
 # http://pygments.org/demo/218030/
 #PYGMENTS_STYLE = 'vim'
 PYGMENTS_STYLE = 'monokai'
-MD_EXTENSIONS = ['nl2br']
+MD_EXTENSIONS = ['nl2br', 'tables',]
 
 DISPLAY_CATEGORIES_ARTICLES_AS_LIST = ('songs', )
 

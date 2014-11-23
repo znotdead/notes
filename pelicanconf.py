@@ -60,4 +60,6 @@ PLUGINS = ['tag_cloud_by_category', ]
 
 DISPLAY_TAGS_FOR_CATEGORY = True
 
+DISQUS_SITENAME = 'znotdeadgithubio'
+
 #DISPLAY_TAGS_INLINE = True

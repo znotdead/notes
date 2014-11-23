@@ -61,5 +61,6 @@ PLUGINS = ['tag_cloud_by_category', ]
 DISPLAY_TAGS_FOR_CATEGORY = True
 
 DISQUS_SITENAME = 'znotdeadgithubio'
+GOOGLE_ANALYTICS = 'UA-57013075-1'
 
 #DISPLAY_TAGS_INLINE = True

@@ -54,7 +54,7 @@ CATEGORIES_LOGO = True
 # http://pygments.org/demo/218030/
 #PYGMENTS_STYLE = 'vim'
 PYGMENTS_STYLE = 'monokai'
-MD_EXTENSIONS = ['nl2br', 'tables',]
+MD_EXTENSIONS = ['nl2br', 'tables', 'fenced_code', 'codehilite(css_class=highlight)',]
 
 DISPLAY_CATEGORIES_ARTICLES_AS_LIST = ('songs', )
 

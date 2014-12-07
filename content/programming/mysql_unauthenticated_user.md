@@ -4,7 +4,7 @@ Modified: 2011-07-29 3:30
 Category: Programming
 Tags: MySQL
 Slug: mysql_unauthenticated_user
-Lang: ru
+Lang: en
 Authors: znotdead
 Summary: unauthenticated user
 

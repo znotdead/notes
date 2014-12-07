@@ -4,7 +4,7 @@ Modified:
 Category: Programming
 Tags: MySQL
 Slug: mysql_select_with_many_fields
-Lang: ru
+Lang: en
 Authors: znotdead
 Summary: select with many fields
 

@@ -2,7 +2,7 @@ Title: DB: Overview NoSQL
 Date: 2012-03-22 14:52
 Modified: 
 Category: Programming
-Tags: NoSQL,  Redis,  Mongo,  Riak,  CouchDB,  HBase,  Membase,  Cassandra,  Hypertable,  Kyoto
+Tags: NoSQL
 Slug: db_overview_nosql
 Lang: en
 Authors: znotdead

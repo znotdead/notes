@@ -2,7 +2,7 @@ Title: MYSQL: delete duplicates and leave with minimal id
 Date: 2012-03-22 14:57
 Modified: 
 Category: Programming
-Tags: Mysql
+Tags: MySQL
 Slug: mysql_delete_duplicates_and_leave_with_minimal_id
 Lang: en
 Authors: znotdead

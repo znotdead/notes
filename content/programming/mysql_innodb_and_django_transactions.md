@@ -2,7 +2,7 @@ Title: MYSQL: InnoDB and Django transactions
 Date: 2012-06-07 08:40
 Modified: 
 Category: Programming
-Tags: Mysql,  Django
+Tags: MySQL,  Django
 Slug: mysql_innodb_and_django_transactions
 Lang: en
 Authors: znotdead

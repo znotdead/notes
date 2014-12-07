@@ -2,7 +2,7 @@ Title: MYSQL: create table from another clever way
 Date: 2012-07-24 06:48
 Modified: 2012-07-24 07:00
 Category: Programming
-Tags: Mysql
+Tags: MySQL
 Slug: mysql_create_table_from_another_clever_way
 Lang: en
 Authors: znotdead

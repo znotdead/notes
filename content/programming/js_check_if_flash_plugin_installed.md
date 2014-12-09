@@ -14,7 +14,7 @@ We can determine if flash installed in browser.
 
 **Pure JS:**
 
-```
+```js
 var hasFlash = false;
 try {
   var fo = new ActiveXObject('ShockwaveFlash.ShockwaveFlash');
@@ -26,12 +26,12 @@ try {
 
 With help of `SWFOBJECT` we can determine version of flash player if exists.
 
-```
+```js
 swfobject.getFlashPlayerVersion()
 ```
 
 But we should check diffrenet versions of ShockwaveFlash as all true libraries do =). So my recent version is:
-```
+```js
 var flash = 0;
 var pluginList = ["", ".3", ".4", ".5", ".6", ".7"]
 if (window.ActiveXObject) {

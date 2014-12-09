@@ -1,0 +1,10 @@
+DJANGO: cycle imports
+posted Jan 6, 2011, 2:08 AM by Mila Rahalevich   [ updated Jul 29, 2011, 3:50 AM ]
+
+to fix cycle imports you should specify ForeignKeys as strings
+
+    flat = models.ForeignKey('Flat')
+
+but if model is placed in other application you should specify it
+
+    flat = models.ForeignKey('building.Flat')

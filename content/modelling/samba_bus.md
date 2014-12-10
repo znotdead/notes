@@ -4,7 +4,7 @@ Modified:
 Category: Modelling
 Tags: modelling
 Slug: samba_bus
-Lang: ru
+Lang: en
 Authors: znotdead
 Summary: model Samba Bus revell 1:24 (18,1sm)
 

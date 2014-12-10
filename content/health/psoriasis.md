@@ -1,4 +1,4 @@
-Title: psoriasis
+Title: Psoriasis
 Date: 2014-12-10 19:41
 Modified: 
 Category: Health
@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: 
 
-### psoriasis
+### Psoriasis
 1. Prehistory *Oct 24, 2011, 5:45*
 Began at the 2006 likely because of stress.'Флуцинар' helped to get remission. At the end of 2010 began again. Now not only head but and behind the ears.
 

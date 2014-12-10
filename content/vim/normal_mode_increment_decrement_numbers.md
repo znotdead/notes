@@ -1,8 +1,8 @@
 Title: NORMAL MODE: Increment/Decrement numbers
 Date: 2012-12-10 19:04
 Modified: 
-Category: 
-Tags: Vim
+Category: Vim
+Tags: Vim, normal mode
 Slug: increment_decrement_numbers_in_normal_mode
 Lang: en
 Authors: znotdead

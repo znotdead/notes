@@ -1,7 +1,7 @@
 Title: VIM: diff usage
 Date: 2012-12-09 13:35
 Modified: 
-Category: Programming
+Category: Vim
 Tags: Vim
 Slug: vim_diff_usage
 Lang: en

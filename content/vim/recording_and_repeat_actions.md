@@ -1,7 +1,7 @@
 Title: Recording and repeat actions
 Date: 2012-12-10 19:01
 Modified: 
-Category: 
+Category: Vim
 Tags: Vim
 Slug: recording_and_repeat_actions
 Lang: en

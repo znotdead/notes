@@ -1,7 +1,7 @@
 Title: run file in console wile editing
 Date: 2012-12-10 19:03
 Modified: 
-Category: 
+Category: Vim
 Tags: Vim
 Slug: run_file_in_console_wile_editing
 Lang: en

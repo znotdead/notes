@@ -1,8 +1,8 @@
 Title: NERDTree: show hidden files
 Date: 2012-12-10 19:01
 Modified: 
-Category: 
-Tags: Vim
+Category: Vim
+Tags: Vim, NERDTree
 Slug: nerdtree_show_hidden_files
 Lang: en
 Authors: znotdead

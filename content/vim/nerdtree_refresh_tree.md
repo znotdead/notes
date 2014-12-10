@@ -1,8 +1,8 @@
 Title: NERDTree: refresh tree
 Date: 2012-12-10 19:04
 Modified: 
-Category: 
-Tags: Vim
+Category: Vim
+Tags: Vim, NERDTree
 Slug: nerdtree_refresh_tree
 Lang: en
 Authors: znotdead

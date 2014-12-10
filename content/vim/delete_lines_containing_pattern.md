@@ -1,7 +1,7 @@
 Title: Delete lines containing pattern
 Date: 2012-12-10 19:01
 Modified: 
-Category: 
+Category: Vim
 Tags: Vim
 Slug: delete_lines_containing_pattern
 Lang: en

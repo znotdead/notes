@@ -1,14 +1,14 @@
-Title: Visual mode: editing
+Title: VISUAL MODE: editing
 Date: 2012-12-10 19:02
 Modified: 
-Category: 
-Tags: Vim
+Category: Vim
+Tags: Vim, visual mode
 Slug: visual_mode_editing
 Lang: en
 Authors: znotdead
 Summary: Visual mode
 
-### Visual mode: editing
+### VISUAL MODE: editing
 
 `CTRL-v` Visual select block mode
 

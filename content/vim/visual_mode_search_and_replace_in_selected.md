@@ -1,8 +1,8 @@
 Title: VISUAL MODE: Search and replace in selected
 Date: 2012-12-10 19:02
 Modified: 
-Category: 
-Tags: Vim
+Category: Vim
+Tags: Vim, visual mode
 Slug: visual_mode_search_and_replace_in_selected
 Lang: en
 Authors: znotdead

@@ -39,9 +39,9 @@ DEFAULT_PAGINATION = 10
 THEME = '../pelican-bootstrap3/'
 CUSTOM_CSS = 'static/css/main.css'
 CUSTOM_JS = [
-    'static/js/jquery-latest.js',
-    'static/js/jquery.tablesorter.min.js',
-    'static/js/main.js',
+    '/static/js/jquery-latest.js',
+    '/static/js/jquery.tablesorter.min.js',
+    '/static/js/main.js',
 ]
 STATIC_PATHS = ['static']
 LINKS = ()

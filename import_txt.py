@@ -69,7 +69,7 @@ class TxtParser(object):
         with open(self.full_name) as f:
             self.title = f.readline().strip().decode('utf-8')
             self.summary = f.readline().strip().decode('utf-8')
-            self.data = '\n'.join([l.strip().decode('utf-8') for l in f.readlines()])
+            self.data = '\n'.join([l.rstrip().decode('utf-8') for l in f.readlines()])
         self.slug = UniqueSlugify(to_lower=True, separator='_', uids=self.slug_uids)
 
 

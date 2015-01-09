@@ -18,7 +18,7 @@ env.cloudfiles_username = 'my_rackspace_username'
 env.cloudfiles_api_key = 'my_rackspace_api_key'
 env.cloudfiles_container = 'my_cloudfiles_container'
 
-DROPBOX_FOLDER = os.path.join(os.getenv('HOME'), 'dropbox/Dropbox/content/')
+DROPBOX_FOLDER = os.path.join(os.getenv('HOME'), 'Dropbox/content/')
 GIT_FOLDER = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'content/')
 RSYNC_COMMAND = 'rsync -abuP --exclude *.swp --exclude *~'
 GITHUB_LOCAL_REPO = '../../znotdead.github.io/'

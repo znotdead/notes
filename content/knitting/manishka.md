@@ -1,4 +1,4 @@
-Title: манишка
+Title: Манишка
 Date: 2014-12-17 14:22
 Modified: 
 Category: Knitting

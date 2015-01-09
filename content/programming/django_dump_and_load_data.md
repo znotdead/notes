@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: dump and load data
 
-### dump and load data
+### DJANGO: dump and load data
 
 If you want to get json from DB for certain model there are 2 usefull commands:
 Example is better to show.

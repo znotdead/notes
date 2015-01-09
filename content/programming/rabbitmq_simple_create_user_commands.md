@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: simple create user commands
 
-### simple create user commands
+### RABBITMQ: simple create user commands
 
 to add host and user with all permissions:
 ```bash

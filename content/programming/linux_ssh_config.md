@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: ssh config
 
-### ssh config
+### LINUX: ssh config
 
 You can make alias for ssh access to your repository for example. Place this line in `~/.bash_aliases`
 

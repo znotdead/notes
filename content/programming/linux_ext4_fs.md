@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: big HDD load on big MySQL update
 
-### ext4 fs
+### LINUX: ext4 fs
 posted Apr 4, 2012, 4:18 AM by Mila Rahalevich
 
 I was updating many millions rows in MySQL and there was a very big HDD load. I decided to decrease journaling by next options in fstab:

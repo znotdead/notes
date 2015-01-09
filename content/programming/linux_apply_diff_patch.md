@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: apply diff patch
 
-### apply diff patch
+### LINUX: apply diff patch
 
 If you have diff and wants to apply it than:
 ```

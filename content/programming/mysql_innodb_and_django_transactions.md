@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: InnoDB transactions
 
-### InnoDB and Django transactions
+### MYSQL: InnoDB and Django transactions
 
 1.  Always use InnoDB `my.cnf`:
 ```

@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: ps UID numeric
 
-### ps displays UID numeric
+### LINUX: ps displays UID numeric
 
 By default ps displays `$UID` `$GUID` as names (words) but when you wants to select process by user with certain `$UID` you should use n option i.e. `ps auxww`
 

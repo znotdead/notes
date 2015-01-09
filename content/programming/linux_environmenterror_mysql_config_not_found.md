@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: EnvironmentError: mysql_config not found
 
-### EnvironmentError: mysql_config not found
+### LINUX: EnvironmentError: mysql_config not found
 
 when trying to install MySQL-python there is error:
 ```

@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: limit speed of apt-get
 
-### limit speed on apt-get
+### LINUX: limit speed on apt-get
 
 Limiting speed to near 200 kB/s. Note that not exactly.
 ```

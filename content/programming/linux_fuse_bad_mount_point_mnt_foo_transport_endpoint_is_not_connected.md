@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: fuse: bad mount point /mnt/foo
 
-### fuse: bad mount point /mnt/foo: Transport endpoint is not connected
+### LINUX: fuse: bad mount point /mnt/foo: Transport endpoint is not connected
 
 1. kill sshfs
 2. kill all that uses /mnt/foo (`lsof | grep foo`)

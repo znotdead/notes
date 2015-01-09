@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: do not dissplay any links in admin change_list
 
-### do not dissplay any links in admin change_list
+### DJANGO: do not dissplay any links in admin change_list
 
 There is example where in change list I want to display coutry and city for example but do not show links to edit it.
 This will not work:

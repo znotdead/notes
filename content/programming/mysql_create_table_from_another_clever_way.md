@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: create table from another
 
-### create table from another clever way
+### MYSQL: create table from another clever way
 
 If you need create table on basis of another you do not need to search types and so on.
 

@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: query as sql
 
-### query as sql
+### DJANGO: query as sql
 
 To view a query as sql in shell
 in versions before multiple db:

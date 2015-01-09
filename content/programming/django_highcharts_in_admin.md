@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: highcharts in admin
 
-### highcharts in admin
+### DJANGO: highcharts in admin
 
 Highcharts require jQuery so in your custom template you need 2 lines ( not only charts) because by default in admin there is a jquery by accessible by `django.jQuery` and `var $ = django.jQuery;` won't help you.
 

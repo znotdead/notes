@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: change file encoding
 
-### change file encoding
+### LINUX: change file encoding
 
 To encode files from russian KOI8-R for example:
 ```

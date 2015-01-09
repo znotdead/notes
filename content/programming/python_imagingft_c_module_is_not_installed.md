@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: _imagingft C module is not installed
 
-### _imagingft C module is not installed
+### PYTHON: _imagingft C module is not installed
 
 after installing PIL 1.1.7 and using django-simple-captha there is error:
 ```

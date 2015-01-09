@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: set correct header to response for browser
 
-### mimetypes
+### PYTHON: mimetypes
 
 If your linux setup in files `python -c 'import mimetypes; print mimetypes.knownfiles'` doesn't have xlsx, for example, than on download of file in opera it will change it to zip or anything else.
 

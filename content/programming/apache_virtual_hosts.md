@@ -1,4 +1,4 @@
-Title: Apache: virtual hosts
+Title: APACHE: virtual hosts
 Date: 2011-12-09 13:34
 Modified: 
 Category: Programming
@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: virtual hosts
 
-### Apache: virtual hosts
+### APACHE: virtual hosts
 
 Very useful [page](http://wiki.apache.org/httpd/CommonMisconfigurations).
 

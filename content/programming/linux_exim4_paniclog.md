@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: exim4 paniclog
 
-### exim4 paniclog
+### LINUX: exim4 paniclog
 
 After reconfiguration exim there is error:
 ```bash

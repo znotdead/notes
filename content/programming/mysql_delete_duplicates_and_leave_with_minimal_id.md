@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: delete duplicates and leave with minimal id
 
-### delete duplicates and leave with minimal id
+### MYSQL: delete duplicates and leave with minimal id
 
 SQL query to delete all duplicates.
 ```mysql

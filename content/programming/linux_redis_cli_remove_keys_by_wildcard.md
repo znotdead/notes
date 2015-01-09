@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: redis-cli remove keys by wildcard
 
-### redis-cli remove keys by wildcard
+### LINUX: redis-cli remove keys by wildcard
 
 ```
 #!/bin/bash

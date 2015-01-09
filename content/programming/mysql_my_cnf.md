@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: Change default collation to UTF-8 and default engine to InnoDB
 
-### my.cnf
+### MYSQL: my.cnf
     :::ini
     [client]
     default-character-set = utf8

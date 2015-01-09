@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: auth on svn and GNOME keyring
 
-### auth on svn and GNOME keyring
+### SVN+LINUX: auth on svn and GNOME keyring
 
 when trying to get repository from svn there is error:
 Password for '(null)' GNOME keyring:

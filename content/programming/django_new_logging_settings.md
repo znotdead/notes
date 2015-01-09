@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: Here is example of LOGGING which creates LOG_DIR and logs in debug.log and error.log and mail to admins exceptions as before django1.3
 
-### new LOGGING settings
+### DJANGO: new LOGGING settings
 
 ```python
 LOG_LEVEL = DEBUG and 'DEBUG' or 'INFO'

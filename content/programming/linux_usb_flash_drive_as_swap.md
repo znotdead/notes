@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: flash drive as swap
 
-### usb flash drive as swap
+### LINUX: usb flash drive as swap
 
 Change usb flash to another better label. A have had ADATA UFD, but I doesn't like spaces, so I'd like to change it to SWAP_USB
 

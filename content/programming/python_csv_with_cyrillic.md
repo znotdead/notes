@@ -8,7 +8,7 @@ Lang: ru
 Authors: znotdead
 Summary: csv with Cyrillic
 
-### csv with Cyrillic
+### PYTHON: csv with Cyrillic
 
 When I need to generate a csv with Russian comments for correct display in Excel (OpenOffice suggest you encoding) you need to convert all to cp1251 =(
 

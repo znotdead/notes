@@ -6,7 +6,7 @@ Tags: Ubuntu
 Slug: ubuntu_change_user_directory_names
 Lang: ru
 Authors: znotdead
-Summary: UBUNTU: change user directory names for music, pictures and so on.
+Summary: change user directory names for music, pictures and so on.
 
 ### UBUNTU: change user directory names.
 

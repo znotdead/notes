@@ -10,7 +10,7 @@ Summary: Useful links
 
 ## Useful links
 
-###Shopping in HK
+### Shopping in HK
 
 | Category | Name | Comment |
 | -------- | ---- | ------- |
@@ -23,3 +23,9 @@ Summary: Useful links
 | Food (European) | M&S(http://www.marksandspencer.com) | |
 | Clothes | M&S(http://www.marksandspencer.com) | |
 | Clothes | HM(http://www.hm.com/hk/en/) | |
+
+
+### Utilize 
+| Name | Link |
+|------|------|
+| recycle in Belarus | http://www.greenmap.by/map.html |

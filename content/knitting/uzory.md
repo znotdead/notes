@@ -11,6 +11,7 @@ Summary: разные узоры спицами
 ### Узоры
 **Ажурный узор для носков или гетр**
 ![Носки или гетры ажурные](static/img/knitting/uzory/azhyrnie_noski_ili_getri.jpg)
+![Носки или гетры ажурные](static/img/knitting/uzory/uzory_1.jpg)
 
 **Узор шиповник для шарфа**
 

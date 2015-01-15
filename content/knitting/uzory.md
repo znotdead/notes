@@ -19,4 +19,8 @@ Summary: разные узоры спицами
 2 р. и все четные ряды: изнаночные петли
 3 р. : 1 кром., *3 п. провязать вместе изнаночной, из 1 п. вывязать 3*, 1 кром.
 
-![Результат]()
+(100% merino)
+![Шарф](static/img/knitting/uzory/scarf_1.jpg)
+![Шарф](static/img/knitting/uzory/scarf_2.jpg)
+![Шарф](static/img/knitting/uzory/scarf_3.jpg)
+![Шарф](static/img/knitting/uzory/scarf_4.jpg)

@@ -43,4 +43,5 @@ Summary: спицами
 [Источник](http://hvastunova.ru/pulover-dlya-malenkoj-devochki/)
 
 **Результат**
-![Результат](static/img/knitting/pulover/result.jpg)
+![Результат](static/img/knitting/pulover/pulover_1.jpg)
+![Результат](static/img/knitting/pulover/pulover_2.jpg)

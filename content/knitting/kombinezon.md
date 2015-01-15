@@ -33,4 +33,5 @@ Summary: голубой с рисунком
 [Источник](http://www.homyak55.ru/blog/goluboj_kombinezon_dlja_malysha/2013-06-21-1050)
 
 **Результат**
-![Результат]()
+![Результат](static/img/knitting/kombinezon/kombinezon_1.jpg)
+![Результат](static/img/knitting/kombinezon/kombinezon_2.jpg)

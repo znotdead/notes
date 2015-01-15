@@ -39,4 +39,6 @@ Summary: Болеро спицами
 [Источник](http://knitting-croshe.ru/vyazanoe-spicami-bolero-dlya-devochki)
 
 **Результат**
-![Результат]()
+![Результат](static/img/knitting/bolero/bolero_1.jpg)
+![Результат](static/img/knitting/bolero/bolero_2.jpg)
+![Результат](static/img/knitting/bolero/bolero_3.jpg)

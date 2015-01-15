@@ -53,4 +53,11 @@ Summary: спицами
 
 [Источник]()
 **Результат**
-![Результат](static/img/knitting/palto/result.jpg)
+![Результат](static/img/knitting/palto/palto_1.jpg)
+![Результат](static/img/knitting/palto/palto_2.jpg)
+![Результат](static/img/knitting/palto/palto_3.jpg)
+![Результат](static/img/knitting/palto/palto_4.jpg)
+![Результат](static/img/knitting/palto/palto_5.jpg)
+![Результат](static/img/knitting/palto/palto_6.jpg)
+![Результат](static/img/knitting/palto/palto_7.jpg)
+![Результат](static/img/knitting/palto/palto_8.jpg)

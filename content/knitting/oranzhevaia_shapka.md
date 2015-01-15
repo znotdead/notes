@@ -20,4 +20,8 @@ Summary: простая шапка с ушками спицами
 набрать нужное количество петель (окружность головы/2)
 вязать резинкой прямое полотно и соединить как кармашек по краям. привязать веревочки.
 
-![Результат]()
+![Результат](static/img/knitting/oranzhevaia_shapka/oranzhevaia_shapka_1.jpg)
+![Результат](static/img/knitting/oranzhevaia_shapka/oranzhevaia_shapka_2.jpg)
+![Результат](static/img/knitting/oranzhevaia_shapka/oranzhevaia_shapka_3.jpg)
+![Результат](static/img/knitting/oranzhevaia_shapka/oranzhevaia_shapka_4.jpg)
+![Результат](static/img/knitting/oranzhevaia_shapka/oranzhevaia_shapka_5.jpg)

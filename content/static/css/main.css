@@ -1,1 +1,3 @@
 blockquote {font-size: 14px;}
+.thumbnail {height: 200px !important;}
+.fullsizeimage {max-height: 100% !important;}

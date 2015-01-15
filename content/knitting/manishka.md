@@ -34,4 +34,6 @@ Summary: спицами
 [Источник](http://www.blog-klubok.ru/manishka-dlya-devochki-spicami)
 
 **Результат**
-![Результат](static/img/knitting/palto/result.jpg)
+![Результат](static/img/knitting/manishka/manishka_1.jpg)
+![Результат](static/img/knitting/manishka/manishka_2.jpg)
+![Результат](static/img/knitting/manishka/manishka_3.jpg)

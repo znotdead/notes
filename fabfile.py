@@ -84,7 +84,7 @@ def deploy_github():
             print 'Need manual commit. Do not forget to remove lock.'
             return
 
-    local('pelican content -o %s -s pelicanconf.py' % GITHUB_LOCAL_REPO)
+    local('pelican content -o %s -s publishconf.py' % GITHUB_LOCAL_REPO)
     local('cd %s && git add * && git commit -m "deploy" && git push' % GITHUB_LOCAL_REPO)
 
 def rsync_with_dropbox():

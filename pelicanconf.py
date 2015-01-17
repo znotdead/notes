@@ -33,7 +33,7 @@ USE_FOLDER_AS_CATEGORY = True
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 # https://github.com/znotdead/pelican-themes/tree/master/pelican-bootstrap3
 THEME = '../pelican-bootstrap3/'
@@ -64,8 +64,7 @@ PLUGIN_PATHS = ['../pelican_tag_cloud_by_category/',]
 PLUGINS = ['tag_cloud_by_category', ]
 
 DISPLAY_TAGS_FOR_CATEGORY = True
+DISPLAY_TAGS_INLINE = True
 
-DISQUS_SITENAME = 'znotdeadgithubio'
-GOOGLE_ANALYTICS = 'UA-57013075-1'
-
-#DISPLAY_TAGS_INLINE = True
+#DISQUS_SITENAME = 'znotdeadnotes'
+#GOOGLE_ANALYTICS = 'UA-57013075-1'

@@ -15,6 +15,12 @@ Summary: Lantau Island
 **Getting to NP360:**
  - By bus 23 from Tung Chung MTR (Fastest way as no many people in line, and cheapest 17.2HKD and 27HKD on Sundays and PH)
  - By Ngong Ping 360 (More attractive and must visit if you have never been there, expensive 115HKD or 180HKD in crystal cabin (Recommend to ride once!) in one turn)
+**Attractions:**
+ - Tian Tan Buddha (Big as Buddha)
+ - Ngong Ping 360
+ - Po Lin Monastery
+ - Po Lam Monastery
+ - Shek Mun Kap Lo Hon Monastery
 
 **Group:** As usual me, father and daughter(1y9m).
 **Our Time:** 5 hours (with getting up to Tian Tan Buddha and making photos)

@@ -17,7 +17,7 @@ Summary: Lantau Island
  - By Ngong Ping 360 (More attractive and must visit if you have never been there, expensive 115HKD or 180HKD in crystal cabin (Recommend to ride once!) in one turn)
 **Attractions:**
  - Tian Tan Buddha (Big as Buddha)
- - Ngong Ping 360
+ - [Ngong Ping 360](http://www.np360.com.hk/en/)
  - Po Lin Monastery
  - Po Lam Monastery
  - Shek Mun Kap Lo Hon Monastery
@@ -31,6 +31,13 @@ All time concrete road with a small part (no more than 500m) of stairs down at t
 
 **Notes:**
 Wonderful in winter. No spiders and butterflies and other insects. Only at evening some mosquitoes. At all will be fine in summer as the most of road surrounded by trees. Not windy route.
+
+**Links:**
+[Ngong Ping 360](http://www.np360.com.hk/en/)
+[Ngong Ping 360](http://www.discoverhongkong.com/us/see-do/great-outdoors/outlying-islands/lantau-island/ngong-ping-360.jsp)
+[Big Buddha and Po Lin Monastery](http://www.discoverhongkong.com/us/see-do/culture-heritage/chinese-temples/big-buddha-and-po-lin-monastery.jsp)
+[Po Lin Monastery](http://www.plm.org.hk/eng/home.php)
+[Map Gov HK](http://www2.map.gov.hk/gih3/view/index.jsp)
 
 **Map:**
 <iframe src="https://www.google.com/maps/d/embed?mid=zLClmVqlU_kM.kkVpAi3Ov7L4" width="640" height="480"></iframe>

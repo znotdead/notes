@@ -27,7 +27,7 @@ Ferry from Sok Kwu Wan to Central (21HKD or 29.8HKD on Sundays and PH) 30-40 min
 **Our Time:** 3.5-4 hours
 **Date:** 9 Aug 2015
 
-**Condition:** All time concrete road but sometime parts in mountains there is tiles and not very comfortable with baby in stroller but empty one not difficult. Better is baby can walk himself at the end of trail through mountains.
+**Condition:** All time concrete road but sometime parts in mountains there is tiles and not very comfortable with baby in stroller but empty one not difficult. Better is baby can walk himself after Beach of trail through mountains as some part of road is rough.
 
 **Notes:**
 A lot open spaces so umbrella from sun can be useful.

@@ -12,7 +12,7 @@ Summary: With visiting Victoria Peak Garden
 
 **Route:** From The Peak to Victoria Peak Garden, than walk on Governor's Walk than came back and go down to Pok Fu Lam Reservoir
 **Length:** 5 km
-**Getting to :**
+**Getting to:**
 - The Peak Tram (Return 40HKD, Single 28HKD) but very long waiting time especially on weekends and PH.
 - Bus from Pier 5 or Exchange Square, Central (bus no. 15) (9.8HKD) but travelling time min 40min.
 
@@ -24,7 +24,7 @@ Summary: With visiting Victoria Peak Garden
 - Peak Tower
 
 **Group:** As usual me, father and daughter(1y9m).
-**Our Time:** 9h with lunch (whole day trip)
+**Our Time:** 9 hours with lunch (whole day trip)
 **Date:** 5 Jul 2014
 
 **Condition:** All time possible to walk with stroller except Governor's walk where was 2 not big parts with stairs. Very easy.

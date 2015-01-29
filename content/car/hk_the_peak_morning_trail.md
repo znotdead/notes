@@ -34,6 +34,7 @@ Summary: Morning trail
 [Map Gov HK](http://www2.map.gov.hk/gih3/view/index.jsp)
 [Hiking site](http://hiking.gov.hk/eng)
 [The Peak](http://www.thepeak.com.hk)
+[oasistrek](http://www.oasistrek.com)
 
 **Map:**
 <iframe src="https://www.google.com/maps/d/embed?mid=zLClmVqlU_kM.k2tIBX4LL4s8" width="640" height="480"></iframe>

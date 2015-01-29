@@ -34,6 +34,7 @@ Summary: With visiting Victoria Peak Garden
 **Links:**
 [Map Gov HK](http://www2.map.gov.hk/gih3/view/index.jsp)
 [Hiking site](http://hiking.gov.hk/eng)
+[oasistrek](http://www.oasistrek.com)
 [Governor's Walk](http://www.tripadvisor.com.au/LocationPhotoDirectLink-g294217-d311573-i87619489-Victoria_Peak_The_Peak-Hong_Kong.html)
 [The Peak](http://www.thepeak.com.hk)
 

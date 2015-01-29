@@ -38,6 +38,8 @@ Wonderful in winter. No spiders and butterflies and other insects. Only at eveni
 [Big Buddha and Po Lin Monastery](http://www.discoverhongkong.com/us/see-do/culture-heritage/chinese-temples/big-buddha-and-po-lin-monastery.jsp)
 [Po Lin Monastery](http://www.plm.org.hk/eng/home.php)
 [Map Gov HK](http://www2.map.gov.hk/gih3/view/index.jsp)
+[oasistrek](http://www.oasistrek.com)
+[Hiking site](http://hiking.gov.hk/eng)
 
 **Map:**
 <iframe src="https://www.google.com/maps/d/embed?mid=zLClmVqlU_kM.kkVpAi3Ov7L4" width="640" height="480"></iframe>

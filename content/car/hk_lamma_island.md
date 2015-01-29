@@ -38,6 +38,8 @@ A lot open spaces so umbrella from sun can be useful.
 [Map Gov HK](http://www2.map.gov.hk/gih3/view/index.jsp)
 [Lamma Island Family Walk] schema
 [Hiking site](http://hiking.gov.hk/eng)
+[Oasistrek](http://www.oasistrek.com)
+[Lamma Island Oasistrek](http://www.oasistrek.com/lamma_e.php)
 
 **Map:**
 <iframe src="https://www.google.com/maps/d/embed?mid=zLClmVqlU_kM.kP4E9Rx8fg0c" width="640" height="480"></iframe>

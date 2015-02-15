@@ -2,7 +2,7 @@ Title: HK: Tung Chung to Tai O
 Date: 2015-01-31 23:29
 Modified: 
 Category: Car
-Tags: HK,  hiking
+Tags: HK,  hiking,  Lantau
 Slug: hk_tung_chung_to_tai_o
 Lang: ru
 Authors: znotdead

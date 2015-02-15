@@ -2,7 +2,7 @@ Title: HK: Ngong Ping 360 to Tung Chung MTR
 Date: 2015-01-25 17:28
 Modified: 
 Category: Car
-Tags: HK,  hiking
+Tags: HK,  hiking, Lantau
 Slug: hk_ngong_ping_360_to_tung_chung_mtr
 Lang: en
 Authors: znotdead

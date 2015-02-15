@@ -20,15 +20,18 @@ Summary: Hong Kong trail
  - Citybus to MTR from village (12 HKD)
 
 **Attractions:**
- -
+ - Shek O Peak (284m)
+ - Dragon's Back
 
 **Group:** As usual me, father and daughter(1y9m).
 **Our Time:** 6 hours (1.5 hour daughter was sleeping on bench of Shek O Peak)
 **Date:** 14 Feb 2015
 
 **Condition:**
+Not accessible by stroller. Only small part of trail by road from Cemetery to Picknic area. So very hard with toddler be ready to bring half of way on hands.
 
 **Notes:**
+No food or water on the whole way.
 
 
 **Links:**

@@ -121,8 +121,8 @@ Trail name | | Territory | Length | Difficulty | Date of trail | Link |
 -----------|------|-----------|--------|------------|---------------|--|
 Kam Shan Family Walk || Central New Territories |||| 
 Hung Mui Kuk Nature Trail || Central New Territories ||||
-Pineapple Nature Trail || Central New Territories | 0.8 | * | 19/02/2015 | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Pineapple_DamNature_Trail/introduction.htm) [Report]() |
-Reservoir Walk || Central New Territories | 6.1 | * | 19/02/2015 | [Report]() |
+Pineapple Nature Trail || Central New Territories | 0.8 | * | 19/02/2015 | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Pineapple_DamNature_Trail/introduction.htm) [Report]({filename}./hk_shing_mun_reservoir_walk.md) |
+Reservoir Walk || Central New Territories | 6.1 | * | 19/02/2015 | [Report]({filename}./hk_shing_mun_reservoir_walk.md) |
 Eagle's Nest Nature Trail || Central New Territories ||||
 Ma On Shan Country Trail || Central New Territories ||||
 High Junk Peak Country Trail || Central New Territories ||||

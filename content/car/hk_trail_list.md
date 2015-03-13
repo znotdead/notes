@@ -1,6 +1,6 @@
 Title: HK: Trail list
 Date: 2015-02-19 21:56
-Modified: 
+Modified: 2015-03-03 18:28
 Category: Car
 Tags: HK,  hiking
 Slug: hk_trail_list
@@ -21,7 +21,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
 [4][HK 4] Wan Chai Gap to Wong Nai Chung Road | The Hong Kong Trail | 7.5 | 2.0 | * | |
 [5][HK 5] Wong Nai Chung Rd to Mount Parker Road | The Hong Kong Trail | 4.0 | 1.5 | *** | |
 [6][HK 6] Mount Parker Road to Tai Tam Road | The Hong Kong Trail | 4.5 | 1.5 | * | |
-[7][HK 7] Tai Tam Road to To Tei Wan | The Hong Kong Trail | 7.5 | 2.0 | * | |
+[7][HK 7] **Tai Tam Road to To Tei Wan** | The Hong Kong Trail | 7.5 | 2.0 | * | |
 [8][HK 8] To Tei Wan to Tai Long Wan | The Hong Kong Trail | 8.5 | 2.75 | *** | [14/02/2014]({filename}./hk_hong_kong_trail_section_8.md) |
 
 [HK 1]: http://hiking.gov.hk/eng/longtrail/hktrail/hktrail/hktrail01.htm (1)
@@ -45,9 +45,9 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
 [6][L 6] Man Cheung Po to Tai O | Lantau Trail | 2.5 | 1.0 | ** | |
 [7][L 7] Tai O to Kau Ling Chung | Lantau Trail | 10.5 | 3.0 | *** | |
 [8][L 8] Kau Ling Chung to Shek Pik | Lantau Trail | 5.5 | 1.5 | ** | |
-[9][L 9] Shek Pik to Shui Hau | Lantau Trail | 6.5 | 2.0 | * | |
-[10][L 10] Shui Hau to Tung Chung Road | Lantau Trail | 6.5 | 2.0 | * | |
-[11][L 11] Tung Chung Road to Pui O | Lantau Trail | 4.5 | 1.25 | * | |
+[9][L 9] **Shek Pik to Shui Hau** | Lantau Trail | 6.5 | 2.0 | * | |
+[10][L 10] **Shui Hau to Tung Chung Road** | Lantau Trail | 6.5 | 2.0 | * | |
+[11][L 11] **Tung Chung Road to Pui O** | Lantau Trail | 4.5 | 1.25 | * | |
 [12][L 12] Pui O to Mui Wo | Lantau Trail | 9.0 | 3.0 | ** | |
 
 [L 1]: http://hiking.gov.hk/eng/longtrail/ltrail/ltrail/ltrail01.htm (1)

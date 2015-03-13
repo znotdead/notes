@@ -56,7 +56,8 @@ CATEGORIES_LOGO = True
 PYGMENTS_STYLE = 'monokai'
 MD_EXTENSIONS = ['nl2br', 'tables', 'fenced_code', 'codehilite(css_class=highlight)',]
 
-DISPLAY_CATEGORIES_ARTICLES_AS_LIST = ('songs', )
+DISPLAY_CATEGORIES_ARTICLES_AS_LIST = ('songs', 'car', 'knitting', 'modeling', 'programming',
+                                       'recipes', 'vim',)
 
 # Plugins
 #from pelican_tag_cloud_by_category import tag_cloud_by_category

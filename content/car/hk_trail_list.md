@@ -13,7 +13,7 @@ Summary: Trails wish to go and done
 ### Long Trails
 **The Hong Kong Trail (50 km)**
 
-Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
+Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
 [1][HK 1] Peak to Pokfulam Reservoir | The Hong Kong Trail | 7.0 | 2.0 | ** | |
 [2][HK 2] Pokfulam Reservoir to Peel Rise | The Hong Kong Trail | 4.5 | 1.5 | ** | |
@@ -22,7 +22,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
 [5][HK 5] Wong Nai Chung Rd to Mount Parker Road | The Hong Kong Trail | 4.0 | 1.5 | *** | |
 [6][HK 6] Mount Parker Road to Tai Tam Road | The Hong Kong Trail | 4.5 | 1.5 | * | |
 [7][HK 7] **Tai Tam Road to To Tei Wan** | The Hong Kong Trail | 7.5 | 2.0 | * | |
-[8][HK 8] To Tei Wan to Tai Long Wan | The Hong Kong Trail | 8.5 | 2.75 | *** | [14/02/2014]({filename}./hk_hong_kong_trail_section_8.md) |
+[8][HK 8] To Tei Wan to Tai Long Wan | The Hong Kong Trail | 8.5 | 2.75 | *** | [14/02/2014]({filename}./hk_hong_kong_trail_section_8.md) | + |
 
 [HK 1]: http://hiking.gov.hk/eng/longtrail/hktrail/hktrail/hktrail01.htm (1)
 [HK 2]: http://hiking.gov.hk/eng/longtrail/hktrail/hktrail/hktrail02.htm (2)
@@ -35,14 +35,14 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
 
 **Lantau Trail (70 km)**
 
-Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
+Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
-[1][L 1] Mui Wo to Nam Shan | Lantau Trail | 2.5 | 0.75 | * | |
-[2][L 2] Nam Shan to Pak Kung Au | Lantau Trail | 6.5 | 2.75 | *** | |
-[3][L 3] Pak Kung Au to Ngong Ping | Lantau Trail | 4.5 | 2.25 | *** | |
+[1][L 1] Mui Wo to Nam Shan | Lantau Trail | 2.5 | 0.75 | * | | + |
+[2][L 2] Nam Shan to Pak Kung Au | Lantau Trail | 6.5 | 2.75 | *** | | + |
+[3][L 3] Pak Kung Au to Ngong Ping | Lantau Trail | 4.5 | 2.25 | *** | | + |
 [4][L 4] Ngong Ping to Sham Wat Road (path is rerouted) | Lantau Trail | 4.0 | 1.25 | ** | |
-[5][L 5] Sham Wat Road to Man Cheung Po | Lantau Trail | 7.5 | 2.75 | ** | |
-[6][L 6] Man Cheung Po to Tai O | Lantau Trail | 2.5 | 1.0 | ** | |
+[5][L 5] Sham Wat Road to Man Cheung Po | Lantau Trail | 7.5 | 2.75 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) |
+[6][L 6] Man Cheung Po to Tai O | Lantau Trail | 2.5 | 1.0 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) |
 [7][L 7] Tai O to Kau Ling Chung | Lantau Trail | 10.5 | 3.0 | *** | |
 [8][L 8] Kau Ling Chung to Shek Pik | Lantau Trail | 5.5 | 1.5 | ** | |
 [9][L 9] **Shek Pik to Shui Hau** | Lantau Trail | 6.5 | 2.0 | * | |
@@ -65,7 +65,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
 
 **Wilson Trail (78 km)**
 
-Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
+Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
 [1][W 1] Stanley to Hong Kong Parkview | Wilson Trail | 4.8 | 2.0 | *** | |
 [2][W 2] Hong Kong Parkview to Quarry Bay | Wilson Trail | 6.6 | 2.5 | ** | |
@@ -91,7 +91,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
 
 **Maclehose Trail (100 km)**
 
-Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
+Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
 [1][M 1] Pak Tam Chung to Long Ke | Maclehose Trail | 10.6 | 3.0 | * | |
 [2][M 2] Long Ke to Pak Tam Au | Maclehose Trail | 13.5 | 5.0 | ** | |
@@ -100,7 +100,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
 [5][M 5] Tai Lo Shan to Tai Po Road |Maclehose Trail | 10.6 | 3.0 | ** | |
 [6][M 6] Tai Po Road to Shing Mun | Maclehose Trail | 4.6 | 1.5 | * | |
 [7][M 7] Shing Mun to Lead Mine Pass | Maclehose Trail | 6.2 | 2.5 | ** | |
-[8][M 8] Lead Mine Pass to Twisk | Maclehose Trail | 9.7 | 4.0 | ** | |
+[8][M 8] Lead Mine Pass to Twisk | Maclehose Trail | 9.7 | 4.0 | ** | | + |
 [9][M 9] Twisk to Tin Fu Tsai | Maclehose Trail | 6.3 | 2.5 | * | |
 [10][M 10] Tin Fu Tsai to Tsuen Mun | Maclehose Trail | 15.6 | 5.0 | * | |
 
@@ -117,12 +117,12 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail |
 
 ###Other
 
-Trail name | | Territory | Length | Difficulty | Date of trail | Link |
+Trail name | | Territory | Length | Difficulty | Date of trail | Link | saksmlz |
 -----------|------|-----------|--------|------------|---------------|--|
 Kam Shan Family Walk || Central New Territories |||| 
 Hung Mui Kuk Nature Trail || Central New Territories ||||
-Pineapple Nature Trail || Central New Territories | 0.8 | * | 19/02/2015 | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Pineapple_DamNature_Trail/introduction.htm) [Report]({filename}./hk_shing_mun_reservoir_walk.md) |
-Reservoir Walk || Central New Territories | 6.1 | * | 19/02/2015 | [Report]({filename}./hk_shing_mun_reservoir_walk.md) |
+Pineapple Nature Trail || Central New Territories | 0.8 | * | 19/02/2015 | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Pineapple_DamNature_Trail/introduction.htm) [Report]({filename}./hk_shing_mun_reservoir_walk.md) | + |
+Reservoir Walk || Central New Territories | 6.1 | * | 19/02/2015 | [Report]({filename}./hk_shing_mun_reservoir_walk.md) | + |
 Eagle's Nest Nature Trail || Central New Territories ||||
 Ma On Shan Country Trail || Central New Territories ||||
 High Junk Peak Country Trail || Central New Territories ||||

@@ -93,14 +93,14 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
-[1][M 1] Pak Tam Chung to Long Ke | Maclehose Trail | 10.6 | 3.0 | * | |
-[2][M 2] Long Ke to Pak Tam Au | Maclehose Trail | 13.5 | 5.0 | ** | |
-[3][M 3] Pak Tam Au to Kei Ling Ha | Maclehose Trail | 10.2 | 4.0 | *** | |
-[4][M 4] Kei Ling Ha to Tai Lo Shan | Maclehose Trail | 12.7 | 5.0 | *** | |
-[5][M 5] Tai Lo Shan to Tai Po Road ([War Relics Trail]) |Maclehose Trail | 10.6 | 3.0 | ** | |
+[1][M 1] *Pak Tam Chung to Long Ke* | Maclehose Trail | 10.6 | 3.0 | * | |
+[2][M 2] *Long Ke to Pak Tam Au* | Maclehose Trail | 13.5 | 5.0 | ** | |
+[3][M 3] *Pak Tam Au to Kei Ling Ha* | Maclehose Trail | 10.2 | 4.0 | *** | |
+[4][M 4] *Kei Ling Ha to Tai Lo Shan* | Maclehose Trail | 12.7 | 5.0 | *** | |
+[5][M 5] *Tai Lo Shan to Tai Po Road* ([War Relics Trail]) |Maclehose Trail | 10.6 | 3.0 | ** | |
 [6][M 6] Tai Po Road to Shing Mun | Maclehose Trail | 4.6 | 1.5 | * | |
 [7][M 7] Shing Mun to Lead Mine Pass | Maclehose Trail | 6.2 | 2.5 | ** | |
-[8][M 8] Lead Mine Pass to Twisk | Maclehose Trail | 9.7 | 4.0 | ** | | + |
+[8][M 8] Lead Mine Pass to Twisk | Maclehose Trail | 9.7 | 4.0 | ** | [09.05.2015]({filename}./hk_maclehose_8.md) | + |
 [9][M 9] Twisk to Tin Fu Tsai | Maclehose Trail | 6.3 | 2.5 | * | |
 [10][M 10] Tin Fu Tsai to Tsuen Mun | Maclehose Trail | 15.6 | 5.0 | * | |
 

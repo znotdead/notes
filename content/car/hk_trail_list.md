@@ -37,12 +37,12 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
-[1][L 1] Mui Wo to Nam Shan | Lantau Trail | 2.5 | 0.75 | * | | + |
+[1][L 1] Mui Wo to Nam Shan | Lantau Trail | 2.5 | 0.75 | * | ||
 [2][L 2] Nam Shan to Pak Kung Au | Lantau Trail | 6.5 | 2.75 | *** | | + |
 [3][L 3] Pak Kung Au to Ngong Ping | Lantau Trail | 4.5 | 2.25 | *** | | + |
 [4][L 4] Ngong Ping to Sham Wat Road (path is rerouted) | Lantau Trail | 4.0 | 1.25 | ** | |
-[5][L 5] Sham Wat Road to Man Cheung Po | Lantau Trail | 7.5 | 2.75 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) |
-[6][L 6] Man Cheung Po to Tai O | Lantau Trail | 2.5 | 1.0 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) |
+[5][L 5] Sham Wat Road to Man Cheung Po | Lantau Trail | 7.5 | 2.75 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
+[6][L 6] Man Cheung Po to Tai O | Lantau Trail | 2.5 | 1.0 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
 [7][L 7] Tai O to Kau Ling Chung | Lantau Trail | 10.5 | 3.0 | *** | |
 [8][L 8] Kau Ling Chung to Shek Pik | Lantau Trail | 5.5 | 1.5 | ** | |
 [9][L 9] **Shek Pik to Shui Hau** | Lantau Trail | 6.5 | 2.0 | * | |

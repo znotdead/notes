@@ -27,12 +27,13 @@ Summary: Жилетка из в квадратов крючком.
 **Варианты**
 
 1. "Броник" Два больних квадрата (спереди и сзади) и 2 маленьких (плечики).
-![Результат](static/img/knitting/zhiletka/zhiletka_1.jpg)
+![Результат](static/img/knitting/zhiletka/result1.jpg)
 2. Много маленьких соединенных вместе по схеме.
 00100100
 00100100
 11111111
 11111111
 11111111
-![Результат](static/img/knitting/zhiletka/result.jpg)
-
+![Результат](static/img/knitting/zhiletka/result2.jpg)
+3. Тапки из квадратов
+![Результат](static/img/knitting/zhiletka/result3.jpg)

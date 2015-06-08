@@ -15,13 +15,13 @@ Summary: Trails wish to go and done
 
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
-[1][HK 1] Peak to Pokfulam Reservoir | The Hong Kong Trail | 7.0 | 2.0 | ** | |
-[2][HK 2] Pokfulam Reservoir to Peel Rise | The Hong Kong Trail | 4.5 | 1.5 | ** | |
-[3][HK 3] Peel Rise to Wan Chai Gap | The Hong Kong Trail | 6.5 | 1.75 | ** | |
+[1][HK 1] Peak to Pokfulam Reservoir | The Hong Kong Trail | 7.0 | 2.0 | ** | [07/06/2015]({filename}./hk_hong_kong_trail_1_2_3.md) | |
+[2][HK 2] Pokfulam Reservoir to Peel Rise | The Hong Kong Trail | 4.5 | 1.5 | ** | [07/06/2015]({filename}./hk_hong_kong_trail_1_2_3.md) | |
+[3][HK 3] Peel Rise to Wan Chai Gap | The Hong Kong Trail | 6.5 | 1.75 | ** | [07/06/2015]({filename}./hk_hong_kong_trail_1_2_3.md) | |
 [4][HK 4] Wan Chai Gap to Wong Nai Chung Road | The Hong Kong Trail | 7.5 | 2.0 | * | |
 [5][HK 5] Wong Nai Chung Rd to Mount Parker Road | The Hong Kong Trail | 4.0 | 1.5 | *** | |
 [6][HK 6] Mount Parker Road to Tai Tam Road | The Hong Kong Trail | 4.5 | 1.5 | * | |
-[7][HK 7] **Tai Tam Road to To Tei Wan** | The Hong Kong Trail | 7.5 | 2.0 | * | |
+[7][HK 7] Tai Tam Road to To Tei Wan | The Hong Kong Trail | 7.5 | 2.0 | * | [06/06/2015]({filename}./hk_hong_kong_trail_7.md) | + |
 [8][HK 8] To Tei Wan to Tai Long Wan | The Hong Kong Trail | 8.5 | 2.75 | *** | [14/02/2014]({filename}./hk_hong_kong_trail_section_8.md) | + |
 
 [HK 1]: http://hiking.gov.hk/eng/longtrail/hktrail/hktrail/hktrail01.htm (1)
@@ -190,7 +190,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 68 | Islands Nature Heritage Trail - Mui Wo Section || Lantau | 7 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/other_route/islands_nature_heritage_trail/introduction.htm) ||
 | 69 | Islands Nature Heritage Trail - Ngong Ping Section || Lantau | 9 | *** ||||
 | 70 | Islands Nature Heritage Trail - Tai O Section || Lantau | 14 | * || [Report]({filename}./hk_tung_chung_to_tai_o.md)| + |
-| 71 | Wisdom Path || Lantau | 0.15 | * || + | + |
+| 71 | Wisdom Path || Lantau | 0.15 | * | + | | + |
 | 72 | Nam Shan Tree Walk || Lantau | 0.44 | treewalk || [treewalks](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=10&lang=en) ||
 | 73 | Ngong Ping Tree Walk || Lantau | 0.35 | treewalk | + | [treewalks](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=09&lang=en) | + |
 | 74 | Tai Mei Tuk Family Walk || North New Territories | 1 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Tai_Mei_Tuk_Family_Walk/introduction.htm) ||

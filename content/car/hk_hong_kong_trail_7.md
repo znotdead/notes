@@ -2,7 +2,7 @@ Title: HK: Hong Kong trail 7
 Date: 2015-06-08 12:31
 Modified: 
 Category: Car
-Tags: hike
+Tags: HK,  hiking,  Hong Kong Trail
 Slug: hk_hong_kong_trail_7
 Lang: ru
 Authors: znotdead

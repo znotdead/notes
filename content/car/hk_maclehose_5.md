@@ -2,7 +2,7 @@ Title: HK: MacLehose 5
 Date: 2015-06-01 16:09
 Modified: 
 Category: Car
-Tags: hike
+Tags: HK,  hiking,  Maclehose Trail
 Slug: hk_maclehose_5
 Lang: ru
 Authors: znotdead

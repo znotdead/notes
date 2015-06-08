@@ -11,7 +11,7 @@ Summary: Hong Kong trail (Sections 1,2,3)
 ### HK: Hong Kong trail 1 2 3
 
 **Route:** The Peak - Pokfulam Reservoir - Peel Rise - Wanchai Gap
-**Length:** 7 km + 4.5 km + 6.5 km = 18 km
+**Length:** 7 km (or 5.3) + 4.5 km + 6.5 km = 18 km (or 16.3km)
 **Level:** Fairly Difficult
 **Getting to:**
  - NWFB bus 15 from Exchange Square to The Peak (9.2 HKD)
@@ -27,7 +27,7 @@ Summary: Hong Kong trail (Sections 1,2,3)
 **Date:** 9 June 2015
 
 **Condition:**
-Not accessible with stroller. Many early exits. Sections 1 and 3 mostly shaded. Few steps.
+Not accessible with stroller. Many early exits. Sections 1 and 3 mostly shaded. Few steps. If you did Peak Tree Walk than you can cut section 1 by morning trail.
 
 **Notes:**
 No food or water on the whole way.

@@ -15,12 +15,12 @@ Summary: Trails wish to go and done
 
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
-[1][HK 1] Peak to Pokfulam Reservoir | The Hong Kong Trail | 7.0 | 2.0 | ** | [07/06/2015]({filename}./hk_hong_kong_trail_1_2_3.md) | |
-[2][HK 2] Pokfulam Reservoir to Peel Rise | The Hong Kong Trail | 4.5 | 1.5 | ** | [07/06/2015]({filename}./hk_hong_kong_trail_1_2_3.md) | |
-[3][HK 3] Peel Rise to Wan Chai Gap | The Hong Kong Trail | 6.5 | 1.75 | ** | [07/06/2015]({filename}./hk_hong_kong_trail_1_2_3.md) | |
-[4][HK 4] Wan Chai Gap to Wong Nai Chung Road | The Hong Kong Trail | 7.5 | 2.0 | * | |
-[5][HK 5] Wong Nai Chung Rd to Mount Parker Road | The Hong Kong Trail | 4.0 | 1.5 | *** | |
-[6][HK 6] Mount Parker Road to Tai Tam Road | The Hong Kong Trail | 4.5 | 1.5 | * | |
+[1][HK 1] Peak to Pokfulam Reservoir | The Hong Kong Trail | 7.0 | 2.0 | ** | [07/06/2015]({filename}./hk_hong_kong_trail_1_2_3.md) | + |
+[2][HK 2] Pokfulam Reservoir to Peel Rise | The Hong Kong Trail | 4.5 | 1.5 | ** | [07/06/2015]({filename}./hk_hong_kong_trail_1_2_3.md) | + |
+[3][HK 3] Peel Rise to Wan Chai Gap | The Hong Kong Trail | 6.5 | 1.75 | ** | [07/06/2015]({filename}./hk_hong_kong_trail_1_2_3.md) | + |
+[4][HK 4] Wan Chai Gap to Wong Nai Chung Road | The Hong Kong Trail | 7.5 | 2.0 | * | [20/06/2015]({filename}./hk_hong_kong_trail_4_5_6.md) ||
+[5][HK 5] Wong Nai Chung Rd to Mount Parker Road | The Hong Kong Trail | 4.0 | 1.5 | *** | [20/06/2015]({filename}./hk_hong_kong_trail_4_5_6.md) ||
+[6][HK 6] Mount Parker Road to Tai Tam Road | The Hong Kong Trail | 4.5 | 1.5 | * | [20/06/2015]({filename}./hk_hong_kong_trail_4_5_6.md) ||
 [7][HK 7] Tai Tam Road to To Tei Wan | The Hong Kong Trail | 7.5 | 2.0 | * | [06/06/2015]({filename}./hk_hong_kong_trail_7.md) | + |
 [8][HK 8] To Tei Wan to Tai Long Wan | The Hong Kong Trail | 8.5 | 2.75 | *** | [14/02/2014]({filename}./hk_hong_kong_trail_section_8.md) | + |
 
@@ -40,7 +40,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [1][L 1] Mui Wo to Nam Shan | Lantau Trail | 2.5 | 0.75 | * | ||
 [2][L 2] Nam Shan to Pak Kung Au | Lantau Trail | 6.5 | 2.75 | *** | | + |
 [3][L 3] Pak Kung Au to Ngong Ping | Lantau Trail | 4.5 | 2.25 | *** | | + |
-[4][L 4] Ngong Ping to Sham Wat Road (path is rerouted) | Lantau Trail | 4.0 | 1.25 | ** | |
+[4][L 4] Ngong Ping to Sham Wat Road (path is rerouted) | Lantau Trail | 4.0 | 1.25 | ** | + | |
 [5][L 5] Sham Wat Road to Man Cheung Po | Lantau Trail | 7.5 | 2.75 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
 [6][L 6] Man Cheung Po to Tai O | Lantau Trail | 2.5 | 1.0 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
 [7][L 7] Tai O to Kau Ling Chung | Lantau Trail | 10.5 | 3.0 | *** | |
@@ -71,7 +71,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [2][W 2] Hong Kong Parkview to Quarry Bay | Wilson Trail | 6.6 | 2.5 | ** | |
 [3][W 3] Lam Tin to Tseng Lan Shue | Wilson Trail | 9.3 | 4.0 | ** | |
 [4][W 4] Tseng Lan Shue to Sha Tin Au | Wilson Trail | 8.0 | 3.0 | *** | |
-[5][W 5] Sha Tin Au to Kowloon Reservoir | Wilson Trail | 7.4 | 2.5 | * | |
+[5][W 5] **Sha Tin Au to Kowloon Reservoir** | Wilson Trail | 7.4 | 2.5 | * | |
 [6][W 6] Kowloon Reservoir to Shing Mun Reservoir | Wilson Trail | 5.3 | 2.0 | ** | |
 [7][W 7] Shing Mun Reservoir to Yuen Tun Ha | Wilson Trail | 10.2 | 4.0 | * | |
 [8][W 8] Yuen Tun Ha to Cloudy Hill | Wilson Trail | 9.0 | 4.0 | *** | |

@@ -17,8 +17,7 @@ Now ESL Podcast has even more.  We have just opened the ESL Podcast Store on our
 
 The first is Interview Questions Answered.  This three-hour course is for anyone who wants to learn business English and how to communicate better with American business people.  This course does two things.  It gives you practical suggestions on how to answer business interview questions, and it teaches you the business English you need to answer them.
 
-Other courses include A Day in the Life of Jeff and A Day in the Life of Lucy.  Many people have asked us to create a complete course that uses all of the common, everyday vocabulary, from getting up in the morning to going to bed at night.  We've created these two ten-part ""Day in the Life"
-courses that will give you the basic vocabulary used by a man or a woman during the day.  Finally, we have a new English Through Stories mystery, an original, 15-chapter novel called Deadly Letters, by Sarah Gatchitie.  If you love a good story, be sure to listen to Deadly Letters.
+Other courses include A Day in the Life of Jeff and A Day in the Life of Lucy.  Many people have asked us to create a complete course that uses all of the common, everyday vocabulary, from getting up in the morning to going to bed at night.  We've created these two ten-part ""Day in the Life" courses that will give you the basic vocabulary used by a man or a woman during the day.  Finally, we have a new English Through Stories mystery, an original, 15-chapter novel called Deadly Letters, by Sarah Gatchitie.  If you love a good story, be sure to listen to Deadly Letters.
 
 All four of these special courses come with a complete Learning Guide, with vocabulary, definitions, and a complete transcript of the course.
 

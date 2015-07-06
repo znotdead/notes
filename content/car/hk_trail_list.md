@@ -48,7 +48,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [9][L 9] **Shek Pik to Shui Hau** | Lantau Trail | 6.5 | 2.0 | * | |
 [10][L 10] **Shui Hau to Tung Chung Road** | Lantau Trail | 6.5 | 2.0 | * | |
 [11][L 11] **Tung Chung Road to Pui O** | Lantau Trail | 4.5 | 1.25 | * | |
-[12][L 12] Pui O to Mui Wo | Lantau Trail | 9.0 | 3.0 | ** | |
+[12][L 12] Pui O to Mui Wo | Lantau Trail | 9.0 | 3.0 | ** | [05/07/2015]({filename}./hk_lantau_trail_12.md) | + |
 
 [L 1]: http://hiking.gov.hk/eng/longtrail/ltrail/ltrail/ltrail01.htm (1)
 [L 2]: http://hiking.gov.hk/eng/longtrail/ltrail/ltrail/ltrail02.htm (2)

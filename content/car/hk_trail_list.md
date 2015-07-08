@@ -10,6 +10,17 @@ Summary: Trails wish to go and done
 
 ### HK: Trail list
 
+### Trips plan
+1. Maclehose 1,2 in reverse 24.1 km
+2. Maclehose 3 10.2 km
+3. Maclehose 4 in reverse 12.7 km
+4. Maclehose 6,7 in reverse 10.8 km
+5. Maclehose 9,10 21.9 km
+6. Lantau 1,2,3 in reverse 13.5 km
+7. Lantau 7,8 in reverse 16 km
+8. Lantau 9,10,11 in reverse 17.5 km
+9. Wilson ?
+
 ### Long Trails
 **The Hong Kong Trail (50 km)**
 

@@ -15,11 +15,10 @@ Summary: Trails wish to go and done
 2. Maclehose 3 10.2 km
 3. Maclehose 4 in reverse 12.7 km
 4. Maclehose 6,7 in reverse 10.8 km
-5. Maclehose 9,10 21.9 km
-6. Lantau 1,2,3 in reverse 13.5 km
-7. Lantau 7,8 in reverse 16 km
-8. Lantau 9,10,11 in reverse 17.5 km
-9. Wilson ?
+5. Lantau 1,2,3 in reverse 13.5 km
+6. Lantau 7,8 in reverse 16 km
+7. Lantau 9,10,11 in reverse 17.5 km
+8. Wilson ?
 
 ### Long Trails
 **The Hong Kong Trail (50 km)**
@@ -112,8 +111,8 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [6][M 6] Tai Po Road to Shing Mun | Maclehose Trail | 4.6 | 1.5 | * | ||
 [7][M 7] Shing Mun to Lead Mine Pass | Maclehose Trail | 6.2 | 2.5 | ** | ||
 [8][M 8] Lead Mine Pass to Twisk | Maclehose Trail | 9.7 | 4.0 | ** | [09.05.2015]({filename}./hk_maclehose_8.md) | + |
-[9][M 9] Twisk to Tin Fu Tsai | Maclehose Trail | 6.3 | 2.5 | * | ||
-[10][M 10] Tin Fu Tsai to Tsuen Mun | Maclehose Trail | 15.6 | 5.0 | * | ||
+[9][M 9] Twisk to Tin Fu Tsai | Maclehose Trail | 6.3 | 2.5 | * | [11.07.2015]({filename}./hk_maclehose_trail_9_10.md) ||
+[10][M 10] Tin Fu Tsai to Tsuen Mun | Maclehose Trail | 15.6 | 5.0 | * | [11.07.2015]({filename}./hk_maclehose_trail_9_10.md) ||
 
 [M 1]: http://hiking.gov.hk/eng/longtrail/mtrail/mtrail/mtrail01.htm (1)
 [M 2]: http://hiking.gov.hk/eng/longtrail/mtrail/mtrail/mtrail02.htm (2)

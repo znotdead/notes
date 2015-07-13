@@ -14,11 +14,16 @@ Summary: Trails wish to go and done
 1. Maclehose 1,2 in reverse 24.1 km
 2. Maclehose 3 10.2 km
 3. Maclehose 4 in reverse 12.7 km
-4. Maclehose 6,7 in reverse 10.8 km
-5. Lantau 1,2,3 in reverse 13.5 km
+4. *Maclehose 6,7 in reverse 10.8 km*
+5. *Lantau 1,2,3 in reverse 13.5 km*
 6. Lantau 7,8 in reverse 16 km
-7. Lantau 9,10,11 in reverse 17.5 km
-8. Wilson ?
+7. **Lantau 9,10,11 in reverse 17.5 km**
+8. Wilson 1,2 11.4 km
+9. **Wilson 3 in reverse 9.3 km**
+10. *Wilson 4,5 15.4 km*
+11. Wilson 6,7 15.5 km + and to Tai Wo part of Wilson 8
+12. Wilson part 8,9,10 17.4 km +
+
 
 ### Long Trails
 **The Hong Kong Trail (50 km)**

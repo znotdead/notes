@@ -46,4 +46,3 @@ You can refill water in the Shui Hau. A lot of barbeque zones on 9 and 10 sectio
 <iframe width='460' height='600' frameborder='0' src='//connect.garmin.com/course/embed/9998587'></iframe>
 <iframe src='https://connect.garmin.com/activity/embed/837526288' width='465' height='500' frameborder='0'></iframe>
 <iframe src='https://connect.garmin.com/activity/embed/837526713' width='465' height='500' frameborder='0'></iframe>
-<iframe src='https://connect.garmin.com/activity/embed/823770816' width='465' height='500' frameborder='0'></iframe>

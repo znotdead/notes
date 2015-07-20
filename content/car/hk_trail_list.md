@@ -17,12 +17,11 @@ Summary: Trails wish to go and done
 4. *Maclehose 6,7 in reverse 10.8 km*
 5. *Lantau 1,2,3 in reverse 13.5 km*
 6. Lantau 7,8 in reverse 16 km
-7. **Lantau 9,10,11 in reverse 17.5 km**
-8. Wilson 1,2 11.4 km
-9. **Wilson 3 in reverse 9.3 km**
-10. *Wilson 4,5 15.4 km*
-11. Wilson 6,7 15.5 km + and to Tai Wo part of Wilson 8
-12. Wilson part 8,9,10 17.4 km +
+7. **Wilson 1,2** 11.4 km
+8. **Wilson 3 in reverse 9.3 km**
+9. *Wilson 4,5 15.4 km*
+10. Wilson 6,7 15.5 km + and to Tai Wo part of Wilson 8
+11. Wilson part 8,9,10 17.4 km +
 
 
 ### Long Trails
@@ -52,17 +51,17 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
-[1][L 1] Mui Wo to Nam Shan | Lantau Trail | 2.5 | 0.75 | * | ||
-[2][L 2] Nam Shan to Pak Kung Au | Lantau Trail | 6.5 | 2.75 | *** | | + |
+[1][L 1] **Mui Wo to Nam Shan** | Lantau Trail | 2.5 | 0.75 | * | ||
+[2][L 2] **Nam Shan to Pak Kung Au** | Lantau Trail | 6.5 | 2.75 | *** | | + |
 [3][L 3] Pak Kung Au to Ngong Ping | Lantau Trail | 4.5 | 2.25 | *** | | + |
 [4][L 4] Ngong Ping to Sham Wat Road (path is rerouted) | Lantau Trail | 4.0 | 1.25 | ** | + | |
 [5][L 5] Sham Wat Road to Man Cheung Po | Lantau Trail | 7.5 | 2.75 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
 [6][L 6] Man Cheung Po to Tai O | Lantau Trail | 2.5 | 1.0 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
 [7][L 7] Tai O to Kau Ling Chung | Lantau Trail | 10.5 | 3.0 | *** | |
 [8][L 8] Kau Ling Chung to Shek Pik | Lantau Trail | 5.5 | 1.5 | ** | |
-[9][L 9] **Shek Pik to Shui Hau** | Lantau Trail | 6.5 | 2.0 | * | |
-[10][L 10] **Shui Hau to Tung Chung Road** | Lantau Trail | 6.5 | 2.0 | * | |
-[11][L 11] **Tung Chung Road to Pui O** | Lantau Trail | 4.5 | 1.25 | * | |
+[9][L 9] Shek Pik to Shui Hau | Lantau Trail | 6.5 | 2.0 | * | [19/07/2015]({filename}./hk_lantau_trail_9_10_11.md) ||
+[10][L 10] Shui Hau to Tung Chung Road | Lantau Trail | 6.5 | 2.0 | * | [19/07/2015]({filename}./hk_lantau_trail_9_10_11.md) ||
+[11][L 11] Tung Chung Road to Pui O | Lantau Trail | 4.5 | 1.25 | * | [19/07/2015]({filename}./hk_lantau_trail_9_10_11.md) ||
 [12][L 12] Pui O to Mui Wo | Lantau Trail | 9.0 | 3.0 | ** | [05/07/2015]({filename}./hk_lantau_trail_12.md) | + |
 
 [L 1]: http://hiking.gov.hk/eng/longtrail/ltrail/ltrail/ltrail01.htm (1)

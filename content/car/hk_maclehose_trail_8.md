@@ -1,14 +1,14 @@
-Title: HK: MacLehose 8
+Title: HK: MacLehose trail 8
 Date: 2015-05-11 20:11
 Modified: 
 Category: Car
 Tags: HK,  hiking,  MacLehose Trail
-Slug: hk_maclehose_8
+Slug: hk_maclehose_trail_8
 Lang: ru
 Authors: znotdead
 Summary: MacLehose trail (Sections 8)
 
-### HK: MacLehose 8
+### HK: MacLehose trail 8
 
 **Route:**  Lead Mine Pass - Route Twisk
 **Length:** 9.7 km

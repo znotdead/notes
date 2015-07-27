@@ -14,7 +14,7 @@ Summary: Trails wish to go and done
 1. Maclehose 1,2 in reverse 24.1 km
 2. Maclehose 3 10.2 km
 3. Maclehose 4 in reverse 12.7 km
-4. *Maclehose 6,7 in reverse 10.8 km*
+4. *Maclehose 6 in reverse 4.6 km*
 5. *Lantau 1,2,3 in reverse 13.5 km*
 6. Lantau 7,8 in reverse 16 km
 7. **Wilson 1,2** 11.4 km
@@ -111,10 +111,10 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [2][M 2] *Long Ke to Pak Tam Au* | Maclehose Trail | 13.5 | 5.0 | ** | | + |
 [3][M 3] *Pak Tam Au to Kei Ling Ha* | Maclehose Trail | 10.2 | 4.0 | *** | ||
 [4][M 4] *Kei Ling Ha to Tai Lo Shan* | Maclehose Trail | 12.7 | 5.0 | *** | ||
-[5][M 5] Tai Lo Shan to Tai Po Road ([War Relics Trail]) |Maclehose Trail | 10.6 | 3.0 | ** | [30.05.2015]({filename}./hk_maclehose_5.md) | |
+[5][M 5] Tai Lo Shan to Tai Po Road ([War Relics Trail]) |Maclehose Trail | 10.6 | 3.0 | ** | [30.05.2015]({filename}./hk_maclehose_trail_5.md) | |
 [6][M 6] Tai Po Road to Shing Mun | Maclehose Trail | 4.6 | 1.5 | * | ||
-[7][M 7] Shing Mun to Lead Mine Pass | Maclehose Trail | 6.2 | 2.5 | ** | ||
-[8][M 8] Lead Mine Pass to Twisk | Maclehose Trail | 9.7 | 4.0 | ** | [09.05.2015]({filename}./hk_maclehose_8.md) | + |
+[7][M 7] Shing Mun to Lead Mine Pass | Maclehose Trail | 6.2 | 2.5 | ** | [27.05.2015]({filename}./hk_maclehose_trail_7.md) ||
+[8][M 8] Lead Mine Pass to Twisk | Maclehose Trail | 9.7 | 4.0 | ** | [09.05.2015]({filename}./hk_maclehose_trail_8.md) | + |
 [9][M 9] Twisk to Tin Fu Tsai | Maclehose Trail | 6.3 | 2.5 | * | [11.07.2015]({filename}./hk_maclehose_trail_9_10.md) ||
 [10][M 10] Tin Fu Tsai to Tsuen Mun | Maclehose Trail | 15.6 | 5.0 | * | [11.07.2015]({filename}./hk_maclehose_trail_9_10.md) ||
 

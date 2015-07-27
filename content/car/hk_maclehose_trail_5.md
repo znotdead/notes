@@ -1,14 +1,14 @@
-Title: HK: MacLehose 5
+Title: HK: MacLehose trail 5
 Date: 2015-06-01 16:09
 Modified: 
 Category: Car
 Tags: HK,  hiking,  Maclehose Trail
-Slug: hk_maclehose_5
+Slug: hk_maclehose_trail_5
 Lang: ru
 Authors: znotdead
 Summary: MacLehose trail (Sections 5) in reverse
 
-### HK: MacLehose 5
+### HK: MacLehose trail 5
 
 **Route:**  Tai Po Road - Tate's Cairn
 **Length:** 10.6 km

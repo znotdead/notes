@@ -20,7 +20,7 @@ Summary: Trails wish to go and done
 7. **Wilson 1,2** 11.4 km
 8. **Wilson 3 in reverse 9.3 km**
 9. *Wilson 4,5 15.4 km*
-10. Wilson 6,7 15.5 km + and to Tai Wo part of Wilson 8
+10. Wilson 7 10.2 km + and to Tai Wo part of Wilson 8
 11. Wilson part 8,9,10 17.4 km +
 
 
@@ -86,7 +86,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [3][W 3] Lam Tin to Tseng Lan Shue | Wilson Trail | 9.3 | 4.0 | ** | |
 [4][W 4] Tseng Lan Shue to Sha Tin Au | Wilson Trail | 8.0 | 3.0 | *** | |
 [5][W 5] **Sha Tin Au to Kowloon Reservoir** | Wilson Trail | 7.4 | 2.5 | * | |
-[6][W 6] Kowloon Reservoir to Shing Mun Reservoir | Wilson Trail | 5.3 | 2.0 | ** | |
+[6][W 6] Kowloon Reservoir to Shing Mun Reservoir | Wilson Trail | 5.3 | 2.0 | ** | [01/08/2015]({filename}./hk_wilson_trail_6.md) ||
 [7][W 7] Shing Mun Reservoir to Yuen Tun Ha | Wilson Trail | 10.2 | 4.0 | * | |
 [8][W 8] Yuen Tun Ha to Cloudy Hill | Wilson Trail | 9.0 | 4.0 | *** | |
 [9][W 9] Cloudy Hill to Pat Sin Leng | Wilson Trail | 10.6 | 4.5 | *** | |

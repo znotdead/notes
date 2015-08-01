@@ -20,7 +20,7 @@ Summary: Wilson trail 6 in reverse
  - Minibus 82 runs to MTR Tsuen Wan Station (4.9 HKD)
 
 **Attractions:**
- - nice 360 views.
+ - some views.
 
 **Group:** Me and meetup group leader Vivi.
 **Our Time:** 2h

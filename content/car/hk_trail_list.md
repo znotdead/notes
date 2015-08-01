@@ -134,7 +134,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 
 | № | Trail name | | Territory | Length | Difficulty | Date of trail | Link | saksmlz |
 |---|------------|-|-----------|--------|------------|---------------|------|---------|
-| 1 | Kam Shan Family Walk || Central New Territories | 1 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Kam_Shan_Family_Walk/introduction.htm) ||
+| 1 | Kam Shan Family Walk || Central New Territories | 1 | * | [01/08/2015]({filename}./hk_wilson_trail_6.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Kam_Shan_Family_Walk/introduction.htm) ||
 | 2 | Ma On Shan Family Walk || Central New Territories | 0.4 | * ||||
 | 3 | Chuen Lung Family Walk || Central New Territories | 0.5 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Chuen_Lung_Family_Walk/introduction.htm) || 
 | 4 | Hung Mui Kuk Nature Trail || Central New Territories | 1.3 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Hung%20Mui_Kuk_Nature_Trail/introduction.htm) ||

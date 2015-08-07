@@ -17,7 +17,7 @@ Summary: Wilson trail 6 in reverse
  - Minibus 82 runs from MTR Tsuen Wan Station (4.9 HKD)
 
 **Getting from:**
- - Minibus 82 runs to MTR Tsuen Wan Station (4.9 HKD)
+ - Bus 81 runs to MTR (6.8 HKD)
 
 **Attractions:**
  - some views.

@@ -15,7 +15,7 @@ Summary: Trails wish to go and done
 2. Maclehose 3 10.2 km
 3. Maclehose 4 in reverse 12.7 km
 4. *Maclehose 6 in reverse 4.6 km*
-5. *Lantau 1,2,3 in reverse 13.5 km*
+5. *Lantau 1,2 in reverse 9 km*
 6. Lantau 7,8 in reverse 16 km
 7. **Wilson 1,2** 11.4 km
 8. **Wilson 3 in reverse 9.3 km**
@@ -53,7 +53,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
 [1][L 1] **Mui Wo to Nam Shan** | Lantau Trail | 2.5 | 0.75 | * | ||
 [2][L 2] **Nam Shan to Pak Kung Au** | Lantau Trail | 6.5 | 2.75 | *** | | + |
-[3][L 3] Pak Kung Au to Ngong Ping | Lantau Trail | 4.5 | 2.25 | *** | | + |
+[3][L 3] Pak Kung Au to Ngong Ping | Lantau Trail | 4.5 | 2.25 | *** | [16/06/2015]({filename}./hk_lantau_trail_3.md) | + |
 [4][L 4] Ngong Ping to Sham Wat Road (path is rerouted) | Lantau Trail | 4.0 | 1.25 | ** | + | |
 [5][L 5] Sham Wat Road to Man Cheung Po | Lantau Trail | 7.5 | 2.75 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
 [6][L 6] Man Cheung Po to Tai O | Lantau Trail | 2.5 | 1.0 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |

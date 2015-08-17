@@ -2,7 +2,7 @@ Title: HK: Lantau trail 5, 6
 Date: 2015-05-03 22:21
 Modified: 
 Category: Car
-Tags: hk,  hiking,  Lantau
+Tags: hk,  hiking,  Lantau trail
 Slug: hk_lantau_trail_5_6
 Lang: ru
 Authors: znotdead

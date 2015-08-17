@@ -2,7 +2,7 @@ Title: HK: Lantau trail 12
 Date: 2015-07-06 17:54
 Modified: 
 Category: Car
-Tags: HK,  hiking,  Lantau
+Tags: HK,  hiking,  Lantau trail
 Slug: hk_lantau_trail_12
 Lang: ru
 Authors: znotdead

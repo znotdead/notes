@@ -2,7 +2,7 @@ Title: HK: Lantau trail section 4 (part 1)
 Date: 2015-02-08 12:55
 Modified: 
 Category: Car
-Tags: HK,  hiking,  Lantau
+Tags: HK,  hiking,  Lantau trail
 Slug: hk_lantau_trail_section_4_part_1
 Lang: ru
 Authors: znotdead

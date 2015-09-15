@@ -53,7 +53,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
 [1][L 1] **Mui Wo to Nam Shan** | Lantau Trail | 2.5 | 0.75 | * | ||
 [2][L 2] **Nam Shan to Pak Kung Au** | Lantau Trail | 6.5 | 2.75 | *** | | + |
-[3][L 3] Pak Kung Au to Ngong Ping | Lantau Trail | 4.5 | 2.25 | *** | [16/06/2015]({filename}./hk_lantau_trail_3.md) | + |
+[3][L 3] Pak Kung Au to Ngong Ping | Lantau Trail | 4.5 | 2.25 | *** | [16/08/2015]({filename}./hk_lantau_trail_3.md) | + |
 [4][L 4] Ngong Ping to Sham Wat Road (path is rerouted) | Lantau Trail | 4.0 | 1.25 | ** | + | |
 [5][L 5] Sham Wat Road to Man Cheung Po | Lantau Trail | 7.5 | 2.75 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
 [6][L 6] Man Cheung Po to Tai O | Lantau Trail | 2.5 | 1.0 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
@@ -81,7 +81,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
-[1][W 1] Stanley to Hong Kong Parkview | Wilson Trail | 4.8 | 2.0 | *** | |
+[1][W 1] Stanley to Hong Kong Parkview | Wilson Trail | 4.8 | 2.0 | *** | [12/09/2015]({filename}./hk_wilson_trail_1.md) ||
 [2][W 2] Hong Kong Parkview to Quarry Bay | Wilson Trail | 6.6 | 2.5 | ** | |
 [3][W 3] Lam Tin to Tseng Lan Shue | Wilson Trail | 9.3 | 4.0 | ** | |
 [4][W 4] Tseng Lan Shue to Sha Tin Au | Wilson Trail | 8.0 | 3.0 | *** | |
@@ -113,7 +113,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [4][M 4] *Kei Ling Ha to Tai Lo Shan* | Maclehose Trail | 12.7 | 5.0 | *** | ||
 [5][M 5] Tai Lo Shan to Tai Po Road ([War Relics Trail]) |Maclehose Trail | 10.6 | 3.0 | ** | [30.05.2015]({filename}./hk_maclehose_trail_5.md) | |
 [6][M 6] Tai Po Road to Shing Mun | Maclehose Trail | 4.6 | 1.5 | * | ||
-[7][M 7] Shing Mun to Lead Mine Pass | Maclehose Trail | 6.2 | 2.5 | ** | [27.05.2015]({filename}./hk_maclehose_trail_7.md) ||
+[7][M 7] Shing Mun to Lead Mine Pass | Maclehose Trail | 6.2 | 2.5 | ** | [27.05.2015]({filename}./hk_maclehose_trail_7.md) | + |
 [8][M 8] Lead Mine Pass to Twisk | Maclehose Trail | 9.7 | 4.0 | ** | [09.05.2015]({filename}./hk_maclehose_trail_8.md) | + |
 [9][M 9] Twisk to Tin Fu Tsai | Maclehose Trail | 6.3 | 2.5 | * | [11.07.2015]({filename}./hk_maclehose_trail_9_10.md) ||
 [10][M 10] Tin Fu Tsai to Tsuen Mun | Maclehose Trail | 15.6 | 5.0 | * | [11.07.2015]({filename}./hk_maclehose_trail_9_10.md) ||

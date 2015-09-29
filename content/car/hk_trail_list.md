@@ -4,7 +4,7 @@ Modified: 2015-03-03 18:28
 Category: Car
 Tags: HK,  hiking
 Slug: hk_trail_list
-Lang: ru
+Lang: en
 Authors: znotdead
 Summary: Trails wish to go and done
 
@@ -18,11 +18,12 @@ Summary: Trails wish to go and done
 5. Lantau 7,8 in reverse 16 km
 6. **Wilson 2** 6.4 km
 7. **Wilson 3 in reverse 9.3 km**
-8. *Wilson 4,5 15.4 km*
-9. Wilson 7 10.2 km + and to Tai Wo part of Wilson 8
-10. Wilson part 8,9,10 17.4 km +
-11. HK trail full 50 km **!!!**
-12. Maclehose 9,10 in winter **!!!**
+8. Wilson 7 10.2 km + and to Tai Wo part of Wilson 8
+9. Wilson part 8,9,10 17.4 km +
+
+### Repeat
+1. HK trail full 50 km **!!!**
+2. Maclehose 9,10 in winter **!!!**
 
 ### Long Trails
 **The Hong Kong Trail (50 km)**
@@ -84,8 +85,8 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [1][W 1] Stanley to Hong Kong Parkview | Wilson Trail | 4.8 | 2.0 | *** | [12/09/2015]({filename}./hk_wilson_trail_1.md) ||
 [2][W 2] Hong Kong Parkview to Quarry Bay | Wilson Trail | 6.6 | 2.5 | ** | |
 [3][W 3] Lam Tin to Tseng Lan Shue | Wilson Trail | 9.3 | 4.0 | ** | |
-[4][W 4] Tseng Lan Shue to Sha Tin Au | Wilson Trail | 8.0 | 3.0 | *** | |
-[5][W 5] **Sha Tin Au to Kowloon Reservoir** | Wilson Trail | 7.4 | 2.5 | * | |
+[4][W 4] Tseng Lan Shue to Sha Tin Au | Wilson Trail | 8.0 | 3.0 | *** | [27/09/2015]({filename}./hk_wilson_trail_5_4.md) ||
+[5][W 5] Sha Tin Au to Kowloon Reservoir | Wilson Trail | 7.4 | 2.5 | * | [27/09/2015]({filename}./hk_wilson_trail_5_4.md) ||
 [6][W 6] Kowloon Reservoir to Shing Mun Reservoir | Wilson Trail | 5.3 | 2.0 | ** | [01/08/2015]({filename}./hk_wilson_trail_6.md) ||
 [7][W 7] Shing Mun Reservoir to Yuen Tun Ha | Wilson Trail | 10.2 | 4.0 | * | |
 [8][W 8] Yuen Tun Ha to Cloudy Hill | Wilson Trail | 9.0 | 4.0 | *** | |

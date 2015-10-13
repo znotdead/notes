@@ -16,10 +16,9 @@ Summary: Trails wish to go and done
 3. *Maclehose 4 in reverse 12.7 km*
 4. *Lantau 1,2 in reverse 9 km*
 5. Lantau 7,8 in reverse 16 km
-6. **Wilson 2** 6.4 km
-7. **Wilson 3 in reverse 9.3 km**
-8. Wilson 7 10.2 km + and to Tai Wo part of Wilson 8
-9. Wilson part 8,9,10 17.4 km +
+6. **Wilson 3 in reverse 9.3 km**
+7. Wilson 7 10.2 km + and to Tai Wo part of Wilson 8
+8. Wilson part 8,9,10 17.4 km +
 
 ### Repeat
 1. HK trail full 50 km **!!!**

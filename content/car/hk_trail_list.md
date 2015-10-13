@@ -83,7 +83,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
 [1][W 1] Stanley to Hong Kong Parkview | Wilson Trail | 4.8 | 2.0 | *** | [12/09/2015]({filename}./hk_wilson_trail_1.md) ||
-[2][W 2] Hong Kong Parkview to Quarry Bay | Wilson Trail | 6.6 | 2.5 | ** | |
+[2][W 2] Hong Kong Parkview to Quarry Bay | Wilson Trail | 6.6 | 2.5 | ** | [11/10/2015]({filename}./hk_wilson_trail_2.md) ||
 [3][W 3] Lam Tin to Tseng Lan Shue | Wilson Trail | 9.3 | 4.0 | ** | |
 [4][W 4] Tseng Lan Shue to Sha Tin Au | Wilson Trail | 8.0 | 3.0 | *** | [27/09/2015]({filename}./hk_wilson_trail_5_4.md) ||
 [5][W 5] Sha Tin Au to Kowloon Reservoir | Wilson Trail | 7.4 | 2.5 | * | [27/09/2015]({filename}./hk_wilson_trail_5_4.md) ||
@@ -240,3 +240,4 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 103 | Kap Lung Forest Trail || West New Territories | 3.9 | treewalk ||||
 | 104 | Tai Tong Tree Walk || West New Territories | 0.65 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=11&lang=en) ||
 | 105 | Islands Nature Heritage Trail - Peng Chau Section || Peng Chau | 5 | * ||||
+| 106 | Tsing Yi Nature Trail || Tsing Yi | 8 | * | [11/10/2015]({filename}./hk_tsing_yi_nature_trail.md) || + |

@@ -83,7 +83,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
 [1][W 1] Stanley to Hong Kong Parkview | Wilson Trail | 4.8 | 2.0 | *** | [12/09/2015]({filename}./hk_wilson_trail_1.md) ||
 [2][W 2] Hong Kong Parkview to Quarry Bay | Wilson Trail | 6.6 | 2.5 | ** | [11/10/2015]({filename}./hk_wilson_trail_2.md) ||
-[3][W 3] Lam Tin to Tseng Lan Shue | Wilson Trail | 9.3 | 4.0 | ** | |
+[3][W 3] Lam Tin to Tseng Lan Shue | Wilson Trail | 9.3 | 4.0 | ** | [25/10/2015]({filename}./hk_wilson_trail_3.md) ||
 [4][W 4] Tseng Lan Shue to Sha Tin Au | Wilson Trail | 8.0 | 3.0 | *** | [27/09/2015]({filename}./hk_wilson_trail_5_4.md) ||
 [5][W 5] Sha Tin Au to Kowloon Reservoir | Wilson Trail | 7.4 | 2.5 | * | [27/09/2015]({filename}./hk_wilson_trail_5_4.md) ||
 [6][W 6] Kowloon Reservoir to Shing Mun Reservoir | Wilson Trail | 5.3 | 2.0 | ** | [01/08/2015]({filename}./hk_wilson_trail_6.md) ||

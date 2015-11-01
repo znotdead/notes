@@ -11,13 +11,12 @@ Summary: Trails wish to go and done
 ### HK: Trail list
 
 ### Trips plan
-1. Maclehose 1,2 in reverse 24.1 km
-2. **Maclehose 3 10.2 km**
-3. *Maclehose 4 in reverse 12.7 km*
-4. *Lantau 1,2 in reverse 9 km*
-5. Lantau 7,8 in reverse 16 km
-6. Wilson 7 10.2 km + and to Tai Wo part of Wilson 8
-7. Wilson part 8,9,10 17.4 km +
+1. **Maclehose 1,2 in reverse 24.1 km**
+2. *Maclehose 4 in reverse 12.7 km*
+3. *Lantau 1,2 in reverse 9 km*
+4. Lantau 7,8 in reverse 16 km
+5. Wilson 7 10.2 km + and to Tai Wo part of Wilson 8
+6. Wilson part 8,9,10 17.4 km +
 
 ### Repeat
 1. HK trail full 50 km **!!!**
@@ -108,7 +107,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
 [1][M 1] *Pak Tam Chung to Long Ke* | Maclehose Trail | 10.6 | 3.0 | * | | + |
 [2][M 2] *Long Ke to Pak Tam Au* | Maclehose Trail | 13.5 | 5.0 | ** | | + |
-[3][M 3] *Pak Tam Au to Kei Ling Ha* | Maclehose Trail | 10.2 | 4.0 | *** | ||
+[3][M 3] *Pak Tam Au to Kei Ling Ha* | Maclehose Trail | 10.2 | 4.0 | *** | [01.10.2015]({filename}./hk_maclehose_trail_3.md) ||
 [4][M 4] *Kei Ling Ha to Tai Lo Shan* | Maclehose Trail | 12.7 | 5.0 | *** | ||
 [5][M 5] Tai Lo Shan to Tai Po Road ([War Relics Trail]) |Maclehose Trail | 10.6 | 3.0 | ** | [30.05.2015]({filename}./hk_maclehose_trail_5.md) | |
 [6][M 6] Tai Po Road to Shing Mun | Maclehose Trail | 4.6 | 1.5 | * | [20.09.2015]({filename}./hk_maclehose_trail_6.md)| + |

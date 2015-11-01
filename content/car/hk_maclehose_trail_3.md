@@ -1,14 +1,14 @@
-Title: HK: Maclthose trail 3
+Title: HK: Maclehose trail 3
 Date: 2015-11-01 22:05
 Modified: 
 Category: Car
 Tags: HK,  hiking,  Maclehose trail
-Slug: hk_maclthose_trail_3
+Slug: hk_maclehose_trail_3
 Lang: ru
 Authors: znotdead
 Summary: Maclehose trail 3
 
-### HK: Maclthose trail 3
+### HK: Maclehose trail 3
 
 **Route:** Tseng Lan Shue village - Kei Ling Ha
 **Length:** 10.2 km

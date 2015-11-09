@@ -84,7 +84,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [4][W 4] Tseng Lan Shue to Sha Tin Au | Wilson Trail | 8.0 | 3.0 | *** | [27/09/2015]({filename}./hk_wilson_trail_5_4.md) ||
 [5][W 5] Sha Tin Au to Kowloon Reservoir | Wilson Trail | 7.4 | 2.5 | * | [27/09/2015]({filename}./hk_wilson_trail_5_4.md) ||
 [6][W 6] Kowloon Reservoir to Shing Mun Reservoir | Wilson Trail | 5.3 | 2.0 | ** | [01/08/2015]({filename}./hk_wilson_trail_6.md) ||
-[7][W 7] Shing Mun Reservoir to Yuen Tun Ha | Wilson Trail | 10.2 | 4.0 | * | [8/10/2015]({filename}./hk_wilson_trail_7.md) |
+[7][W 7] Shing Mun Reservoir to Yuen Tun Ha | Wilson Trail | 10.2 | 4.0 | * | [08/10/2015]({filename}./hk_wilson_trail_7.md) |
 [8][W 8] Yuen Tun Ha to Cloudy Hill | Wilson Trail | 9.0 | 4.0 | *** | |
 [9][W 9] Cloudy Hill to Pat Sin Leng | Wilson Trail | 10.6 | 4.5 | *** | |
 [10][W 10] Pat Sin Leng to Nam Chung | Wilson Trail | 6.8 | 2.0 | ** | |
@@ -193,7 +193,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 60 | Shek Pik Country Trail || Lantau | 5.5 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/ShekPik_Country_Trail/introduction.htm) ||
 | 61 | Fan Lau Country Trail || Lantau | 2.1 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Fan_Lau_Country_Trail/introduction.htm) ||
 | 62 | Chi Ma Wan Country Trail || Lantau | 18.5 | **** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/ChiMaWan_country_trail/introduction.htm) ||
-| 63 | Nei Lak Shan Country Trail || Lantau | 5 | ** | [7/10/2015]({filename}./hk_nei_lak_shan_country_trail_maclehose_4.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Nei_Lak_Shan_Country_Trail/introduction.htm) | + |
+| 63 | Nei Lak Shan Country Trail || Lantau | 5 | ** | [07/10/2015]({filename}./hk_nei_lak_shan_country_trail_maclehose_4.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Nei_Lak_Shan_Country_Trail/introduction.htm) | + |
 | 64 | South Lantau Country Trail || Lantau | 10.3 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/South_Lantau_Country_Trail/introduction.htm) ||
 | 65 | Wong Lung Hang Country Trail || Lantau | 2.3 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Wong_Lung_Hang_Country_Trail/introduction.htm) ||
 | 66 | Hong Kong Olympic TRAIL || Lantau | 7 | * ||||
@@ -231,7 +231,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 98 | Tai Lam Nature Trail || West New Territories | 10 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/TaiLam_Nature_Trail/introduction.htm) ||
 | 99 | Kap Lung Ancient Trail || West New Territories | 2 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Kap_Lung_Country_Trail/introduction.htm) ||
 | 100 | Tai Lam Chung Country Trail || West New Territories | 5.5 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Tai_Lam_Chung_Country_Trail/introduction.htm) ||
-| 101 | Yuen Tsuen Ancient Trail Country Trail || West New Territories | 12.5 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Yuen_Tsuen_Ancient_Trail/introduction.htm) ||
+| 101 | Yuen Tsuen Ancient Trail Country Trail || West New Territories | 12.5 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Yuen_Tsuen_Ancient_Trail/introduction.htm) | + |
 | 102 | Yuen Tun Country Trail || West New Territories | 8 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Yuen_Tun_Country_Trail/introduction.htm) ||
 | 103 | Kap Lung Forest Trail || West New Territories | 3.9 | treewalk ||||
 | 104 | Tai Tong Tree Walk || West New Territories | 0.65 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=11&lang=en) ||

@@ -15,8 +15,7 @@ Summary: Trails wish to go and done
 2. *Maclehose 4 in reverse 12.7 km*
 3. *Lantau 1,2 in reverse 9 km*
 4. Lantau 7,8 in reverse 16 km
-5. Wilson 7 10.2 km + and to Tai Wo part of Wilson 8
-6. Wilson part 8,9,10 17.4 km +
+5. Wilson 8,9,10 26.4 km +
 
 ### Repeat
 1. HK trail full 50 km **!!!**
@@ -85,7 +84,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [4][W 4] Tseng Lan Shue to Sha Tin Au | Wilson Trail | 8.0 | 3.0 | *** | [27/09/2015]({filename}./hk_wilson_trail_5_4.md) ||
 [5][W 5] Sha Tin Au to Kowloon Reservoir | Wilson Trail | 7.4 | 2.5 | * | [27/09/2015]({filename}./hk_wilson_trail_5_4.md) ||
 [6][W 6] Kowloon Reservoir to Shing Mun Reservoir | Wilson Trail | 5.3 | 2.0 | ** | [01/08/2015]({filename}./hk_wilson_trail_6.md) ||
-[7][W 7] Shing Mun Reservoir to Yuen Tun Ha | Wilson Trail | 10.2 | 4.0 | * | |
+[7][W 7] Shing Mun Reservoir to Yuen Tun Ha | Wilson Trail | 10.2 | 4.0 | * | [8/10/2015]({filename}./hk_wilson_trail_7.md) |
 [8][W 8] Yuen Tun Ha to Cloudy Hill | Wilson Trail | 9.0 | 4.0 | *** | |
 [9][W 9] Cloudy Hill to Pat Sin Leng | Wilson Trail | 10.6 | 4.5 | *** | |
 [10][W 10] Pat Sin Leng to Nam Chung | Wilson Trail | 6.8 | 2.0 | ** | |
@@ -194,7 +193,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 60 | Shek Pik Country Trail || Lantau | 5.5 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/ShekPik_Country_Trail/introduction.htm) ||
 | 61 | Fan Lau Country Trail || Lantau | 2.1 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Fan_Lau_Country_Trail/introduction.htm) ||
 | 62 | Chi Ma Wan Country Trail || Lantau | 18.5 | **** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/ChiMaWan_country_trail/introduction.htm) ||
-| 63 | Nei Lak Shan Country Trail || Lantau | 5 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Nei_Lak_Shan_Country_Trail/introduction.htm) | + |
+| 63 | Nei Lak Shan Country Trail || Lantau | 5 | ** | [7/10/2015]({filename}./hk_nei_lak_shan_country_trail_maclehose_4.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Nei_Lak_Shan_Country_Trail/introduction.htm) | + |
 | 64 | South Lantau Country Trail || Lantau | 10.3 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/South_Lantau_Country_Trail/introduction.htm) ||
 | 65 | Wong Lung Hang Country Trail || Lantau | 2.3 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Wong_Lung_Hang_Country_Trail/introduction.htm) ||
 | 66 | Hong Kong Olympic TRAIL || Lantau | 7 | * ||||

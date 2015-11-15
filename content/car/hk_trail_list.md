@@ -11,11 +11,10 @@ Summary: Trails wish to go and done
 ### HK: Trail list
 
 ### Trips plan
-1. **Maclehose 1,2 in reverse 24.1 km**
-2. *Maclehose 4 in reverse 12.7 km*
-3. *Lantau 1,2 in reverse 9 km*
-4. Lantau 7,8 in reverse 16 km
-5. Wilson 8,9,10 26.4 km +
+1. *Maclehose 4 in reverse 12.7 km*
+2. **Lantau 1,2 in reverse 9 km**
+3. Lantau 7,8 in reverse 16 km
+4. Wilson 8,9,10 26.4 km +
 
 ### Repeat
 1. HK trail full 50 km **!!!**
@@ -54,8 +53,8 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [4][L 4] Ngong Ping to Sham Wat Road (path is rerouted) | Lantau Trail | 4.0 | 1.25 | ** | + | |
 [5][L 5] Sham Wat Road to Man Cheung Po | Lantau Trail | 7.5 | 2.75 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
 [6][L 6] Man Cheung Po to Tai O | Lantau Trail | 2.5 | 1.0 | ** | [02/05/2015]({filename}./hk_lantau_trail_5_6.md) | + |
-[7][L 7] Tai O to Kau Ling Chung | Lantau Trail | 10.5 | 3.0 | *** | |
-[8][L 8] Kau Ling Chung to Shek Pik | Lantau Trail | 5.5 | 1.5 | ** | |
+[7][L 7] Tai O to Kau Ling Chung | Lantau Trail | 10.5 | 3.0 | *** | | + |
+[8][L 8] Kau Ling Chung to Shek Pik | Lantau Trail | 5.5 | 1.5 | ** | | + |
 [9][L 9] Shek Pik to Shui Hau | Lantau Trail | 6.5 | 2.0 | * | [19/07/2015]({filename}./hk_lantau_trail_9_10_11.md) ||
 [10][L 10] Shui Hau to Tung Chung Road | Lantau Trail | 6.5 | 2.0 | * | [19/07/2015]({filename}./hk_lantau_trail_9_10_11.md) ||
 [11][L 11] Tung Chung Road to Pui O | Lantau Trail | 4.5 | 1.25 | * | [19/07/2015]({filename}./hk_lantau_trail_9_10_11.md) ||
@@ -104,8 +103,8 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
-[1][M 1] *Pak Tam Chung to Long Ke* | Maclehose Trail | 10.6 | 3.0 | * | | + |
-[2][M 2] *Long Ke to Pak Tam Au* | Maclehose Trail | 13.5 | 5.0 | ** | | + |
+[1][M 1] *Pak Tam Chung to Long Ke* | Maclehose Trail | 10.6 | 3.0 | * | [14.10.2015]({filename}./hk_maclehose_trail_1_2.md) | + |
+[2][M 2] *Long Ke to Pak Tam Au* | Maclehose Trail | 13.5 | 5.0 | ** | [14.10.2015]({filename}./hk_maclehose_trail_1_2.md) | + |
 [3][M 3] *Pak Tam Au to Kei Ling Ha* | Maclehose Trail | 10.2 | 4.0 | *** | [01.10.2015]({filename}./hk_maclehose_trail_3.md) ||
 [4][M 4] *Kei Ling Ha to Tai Lo Shan* | Maclehose Trail | 12.7 | 5.0 | *** | ||
 [5][M 5] Tai Lo Shan to Tai Po Road ([War Relics Trail]) |Maclehose Trail | 10.6 | 3.0 | ** | [30.05.2015]({filename}./hk_maclehose_trail_5.md) | |

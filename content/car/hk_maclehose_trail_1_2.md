@@ -11,7 +11,7 @@ Summary: Maclehose 2 and Maclehose 1 in reverse
 ### HK: Maclehose 2 - Maclehose 1
 
 **Route:** Pak Tam Au - Long Ke - Pak Tam Chung
-**Length:** 13.5 km + 10.6
+**Length:** 13.5 km + 10.6 km = 24.1 km (25km by GPS)
 **Level:** Fairly Difficult - Easy Walk
 **Getting to:**
  - bus 299x from Diamond Hill MTR to Sai Kung BT

@@ -2,7 +2,7 @@ Title: Торт медовый "Ангарский"
 Date: 2015-01-02 08:59
 Modified: 
 Category: Recipes
-Tags: торт
+Tags: торт, десерт
 Slug: tort_medovyi_angarskii
 Lang: ru
 Authors: znotdead

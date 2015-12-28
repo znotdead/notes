@@ -2,7 +2,7 @@ Title: Чизкейк
 Date: 2015-01-15 17:57
 Modified: 
 Category: Recipes
-Tags: торт
+Tags: торт, десерт
 Slug: chizkeik
 Lang: ru
 Authors: znotdead

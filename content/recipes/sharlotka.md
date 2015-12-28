@@ -2,7 +2,7 @@ Title: Шарлотка
 Date: 2014-12-07 22:43
 Modified: 
 Category: Recipes
-Tags: пирог
+Tags: пирог, десерт
 Slug: sharlotka
 Lang: ru
 Authors: znotdead

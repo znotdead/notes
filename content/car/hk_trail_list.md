@@ -17,12 +17,11 @@ Summary: Trails wish to go and done
 
 ### Hike with Erica (plans)
 1. High Junk Peak Country Trail 6.7km (285m up, 482m down)
-2. Kap Lung Ancient Trail 2.6km (6m up, 406m down)
-3. Eagle's Nest Nature trail 3.8km (205m up, 353m down)
-4. Pok Fu Lam Family Walk 3.5km
-5. Hong Pak Country Trail 5km
-6. Ma On Shan Country Trail 4.5km
-7. Tai Tong Nature Trail 3 km
+2. Eagle's Nest Nature trail 3.8km (205m up, 353m down)
+3. Pok Fu Lam Family Walk 3.5km
+4. Hong Pak Country Trail 5km
+5. Ma On Shan Country Trail 4.5km
+6. Tai Tong Nature Trail 3 km
 
 ### Long Trails
 **The Hong Kong Trail (50 km)**
@@ -136,7 +135,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 |---|------------|-|-----------|--------|------------|---------------|------|---------|
 | 1 | Kam Shan Family Walk || Central New Territories | 1 | * | [01/08/2015]({filename}./hk_wilson_trail_6.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Kam_Shan_Family_Walk/introduction.htm) ||
 | 2 | Ma On Shan Family Walk || Central New Territories | 0.4 | * ||||
-| 3 | Chuen Lung Family Walk || Central New Territories | 0.5 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Chuen_Lung_Family_Walk/introduction.htm) || 
+| 3 | Chuen Lung Family Walk || Central New Territories | 0.5 | * | [25/06/2016]({filename}./hk_lung_mun_country_trail.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Chuen_Lung_Family_Walk/introduction.htm) || 
 | 4 | Hung Mui Kuk Nature Trail || Central New Territories | 1.3 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Hung%20Mui_Kuk_Nature_Trail/introduction.htm) ||
 | 5 | Pineapple Nature Trail || Central New Territories | 0.8 | * | [19/02/2015]({filename}./hk_shing_mun_reservoir_walk.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Pineapple_DamNature_Trail/introduction.htm) [Report] | + |
 | 6 | Reservoir Walk || Central New Territories | 6.1 | * | [19/02/2015]({filename}./hk_shing_mun_reservoir_walk.md) | | + |
@@ -145,7 +144,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 9 | Ma On Shan Country Trail || Central New Territories | 4.5 | ** || [hiking.giv.hk](http://hiking.gov.hk/eng/trail_list/country_trail/MaOnShan_Country_Trail/introduction.htm) ||
 | 10 | *High Junk Peak Country Trail* || Central New Territories | 6.6 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/HighJunkPeak_Country_Trail/introduction.htm) ||
 | 11 | Lung Ha Wan Country Trail || Central New Territories | 2.3 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lung_Ha_Wan_Country_Trail/introduction.htm) ||
-| 12 | Lung Mun Country Trail || Central New Territories | 5 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lung_Mun_Country_Trail/introduction.htm) ||
+| 12 | Lung Mun Country Trail || Central New Territories | 5 | *** | [25/06/2016]({filename}./hk_lung_mun_country_trail.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lung_Mun_Country_Trail/introduction.htm) ||
 | 13 | Reception Reservoir Jogging Trail || Central New Territories | 1.7 | jogging ||||
 | 14 | Shek Lei Pui Reservoir Jogging Trail || Central New Territories | 1.8 | jogging ||||
 | 15 | Shing Mun Jogging Trail || Central New Territories | 4.8 | jogging | + | part of Wilson 7 ||
@@ -209,7 +208,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 73 | Ngong Ping Tree Walk || Lantau | 0.35 | treewalk | + | [treewalks](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=09&lang=en) | + |
 | 74 | Tai Mei Tuk Family Walk || North New Territories | 1 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Tai_Mei_Tuk_Family_Walk/introduction.htm) ||
 | 75 | Fung Hang Family Walk || North New Territories | 2.3 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/FungHang_Family_Walk/introduction.htm) ||
-| 76 | Hok Tau ReservoirFamily Walk || North New Territories | 2.5 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Hok_Tau_Family_Walk/introduction.htm) ||
+| 76 | Hok Tau Reservoir Family Walk || North New Territories | 2.5 | ** | [04/06/2016]({filename}./hk_hok_tau_reservoir_family_walk.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Hok_Tau_Family_Walk/introduction.htm) ||
 | 77 | Lai Chi Wo Nature Trail || North New Territories | 1.2 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Lai_Chi_Wo_Nature_Trail/introduction.htm) ||
 | 78 | Ma Shi Chau Nature Trail || North New Territories | 1.5 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/MaShiChau_Nature_Trail/introduction.htm) ||
 | 79 | Bride's Pool Nature Trail || North New Territories | 0.7 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/BridesPool_Nature_Trail/introduction.htm) ||
@@ -231,7 +230,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 95 | Tuen Mun Fitness Trail || West New Territories | 3.1 | fitness ||||
 | 96 | Tai Tong Nature Trail || West New Territories | 3.2 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Tai_Tong_Nature_Trail/introduction.htm) ||
 | 97 | Twisk Nature Trail || West New Territories | 2 | ** | [13/01/2016]({filename}./hk_twisk_nature_trail.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Twisk_Nature_Trail/introduction.htm) ||
-| 99 | *Kap Lung Ancient Trail* || West New Territories | 2 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Kap_Lung_Country_Trail/introduction.htm) ||
+| 99 | Kap Lung Ancient Trail || West New Territories | 2 | ** | [25/06/2016]({filename}./hk_kap_lung_ancient_trail.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Kap_Lung_Country_Trail/introduction.htm) ||
 | 98 | Tai Lam Nature Trail || West New Territories | 10 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/TaiLam_Nature_Trail/introduction.htm) ||
 | 100 | Tai Lam Chung Country Trail || West New Territories | 5.5 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Tai_Lam_Chung_Country_Trail/introduction.htm) ||
 | 101 | Yuen Tsuen Ancient Trail Country Trail || West New Territories | 12.5 | *** | [14/02/2016]({filename}./hk_yuen_tsuen_ancient_trail.md)| [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Yuen_Tsuen_Ancient_Trail/introduction.htm) | + |
@@ -240,3 +239,6 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 104 | Tai Tong Tree Walk || West New Territories | 0.65 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=11&lang=en) ||
 | 105 | Islands Nature Heritage Trail - Peng Chau Section || Peng Chau | 5 | * ||||
 | 106 | Tsing Yi Nature Trail || Tsing Yi | 8 | * | [11/10/2015]({filename}./hk_tsing_yi_nature_trail.md) || + |
+| 107 | Shing Mun Jogging Trail || West New Territories | 6 | jogging | [01/07/2016]({filename}./hk_shing_mun_jogging_trail.md) || + |
+| 108 | Tsz Lo Lan Shan Path || Hong Kong Island | 4 | * || [02/07/2016]({filename}./hk_tsz_lo_lan_shan_path.md) ||
+| 109 | The Twins CatchWater || Hong Kong Island | 3 | * || [02/07/2016]({filename}./hk_tsz_lo_lan_shan_path.md) ||

@@ -17,11 +17,10 @@ Summary: Trails wish to go and done
 
 ### Hike with Erica (plans)
 1. High Junk Peak Country Trail 6.7km (285m up, 482m down)
-2. Eagle's Nest Nature trail 3.8km (205m up, 353m down)
-3. Pok Fu Lam Family Walk 3.5km
-4. Hong Pak Country Trail 5km
-5. Ma On Shan Country Trail 4.5km
-6. Tai Tong Nature Trail 3 km
+2. Pok Fu Lam Family Walk 3.5km
+3. Hong Pak Country Trail 5km
+4. Ma On Shan Country Trail 4.5km
+5. Tai Tong Nature Trail 3 km
 
 ### Long Trails
 **The Hong Kong Trail (50 km)**
@@ -106,10 +105,10 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
-[1][M 1] *Pak Tam Chung to Long Ke* | Maclehose Trail | 10.6 | 3.0 | * | [14.10.2015]({filename}./hk_maclehose_trail_1_2.md) | + |
-[2][M 2] *Long Ke to Pak Tam Au* | Maclehose Trail | 13.5 | 5.0 | ** | [14.10.2015]({filename}./hk_maclehose_trail_1_2.md) | + |
-[3][M 3] *Pak Tam Au to Kei Ling Ha* | Maclehose Trail | 10.2 | 4.0 | *** | [01.10.2015]({filename}./hk_maclehose_trail_3.md) ||
-[4][M 4] *Kei Ling Ha to Tai Lo Shan* | Maclehose Trail | 12.7 | 5.0 | *** | [28.11.2015]({filename}./hk_maclehose_trail_4.md) ||
+[1][M 1] Pak Tam Chung to Long Ke | Maclehose Trail | 10.6 | 3.0 | * | [14.10.2015]({filename}./hk_maclehose_trail_1_2.md) | + |
+[2][M 2] Long Ke to Pak Tam Au | Maclehose Trail | 13.5 | 5.0 | ** | [14.10.2015]({filename}./hk_maclehose_trail_1_2.md) | + |
+[3][M 3] Pak Tam Au to Kei Ling Ha | Maclehose Trail | 10.2 | 4.0 | *** | [01.10.2015]({filename}./hk_maclehose_trail_3.md) ||
+[4][M 4] Kei Ling Ha to Tai Lo Shan | Maclehose Trail | 12.7 | 5.0 | *** | [28.11.2015]({filename}./hk_maclehose_trail_4.md) ||
 [5][M 5] Tai Lo Shan to Tai Po Road ([War Relics Trail]) |Maclehose Trail | 10.6 | 3.0 | ** | [30.05.2015]({filename}./hk_maclehose_trail_5.md) | |
 [6][M 6] Tai Po Road to Shing Mun | Maclehose Trail | 4.6 | 1.5 | * | [20.09.2015]({filename}./hk_maclehose_trail_6.md)| + |
 [7][M 7] Shing Mun to Lead Mine Pass | Maclehose Trail | 6.2 | 2.5 | ** | [27.05.2015]({filename}./hk_maclehose_trail_7.md) | + |
@@ -139,7 +138,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 4 | Hung Mui Kuk Nature Trail || Central New Territories | 1.3 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Hung%20Mui_Kuk_Nature_Trail/introduction.htm) ||
 | 5 | Pineapple Nature Trail || Central New Territories | 0.8 | * | [19/02/2015]({filename}./hk_shing_mun_reservoir_walk.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Pineapple_DamNature_Trail/introduction.htm) [Report] | + |
 | 6 | Reservoir Walk || Central New Territories | 6.1 | * | [19/02/2015]({filename}./hk_shing_mun_reservoir_walk.md) | | + |
-| 7 | *Eagle's Nest Nature Trail* || Central New Territories | 3.2 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Eagles_Nest_Nature_Trail/introduction.htm) ||
+| 7 | Eagle's Nest Nature Trail || Central New Territories | 3.2 | * |[24/07/2016]({filename}./hk_eagles_nest_nature_trail.md)| [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Eagles_Nest_Nature_Trail/introduction.htm) ||
 | 8 | Rotary Club Park Nature Trail || Central New Territories | 0.8 | * | [01/01/2016]({filename}./hk_tai_mo_shan_rotary_park.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Rotary_Park_Nature_Trail/introduction.htm) | + |
 | 9 | Ma On Shan Country Trail || Central New Territories | 4.5 | ** || [hiking.giv.hk](http://hiking.gov.hk/eng/trail_list/country_trail/MaOnShan_Country_Trail/introduction.htm) ||
 | 10 | *High Junk Peak Country Trail* || Central New Territories | 6.6 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/HighJunkPeak_Country_Trail/introduction.htm) ||
@@ -150,7 +149,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 15 | Shing Mun Jogging Trail || Central New Territories | 4.8 | jogging | + | part of Wilson 7 ||
 | 16 | Tai Mo Shan Hiking Practice Trail || Central New Territories | 1 | * | [01/01/2016]({filename}./hk_tai_mo_shan_rotary_park.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/other_route/tai_mo_shan/introduction.htm) | + |
 | 17 | Clear Water Bay Tree Walk || Central New Territories | 1.2 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=14&lang=en) ||
-| 18 | Kam Shan Tree Walk || Central New Territories | 1.15 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=06&lang=en) ||
+| 18 | Kam Shan Tree Walk || Central New Territories | 1.15 | treewalk |[24/07/2016]({filename}./hk_kam_shan_tree_walk.md)| [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=06&lang=en) ||
 | 19 | Ma On Shan Tree Walk || Central New Territories | 0.44 | treewalk ||||
 | 20 | Sheung Yiu Family Walk || Sai Kung | 1.8 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Sheung_Yiu_Family_Walk/introduction.htm)  ||
 | 21 | Pak Tam Chung Family Walk || Sai Kung | 1.4 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Pak_Tam_Chung_Family_Walk/introduction.htm) ||
@@ -240,5 +239,5 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 105 | Islands Nature Heritage Trail - Peng Chau Section || Peng Chau | 5 | * ||||
 | 106 | Tsing Yi Nature Trail || Tsing Yi | 8 | * | [11/10/2015]({filename}./hk_tsing_yi_nature_trail.md) || + |
 | 107 | Shing Mun Jogging Trail || West New Territories | 6 | jogging | [01/07/2016]({filename}./hk_shing_mun_jogging_trail.md) || + |
-| 108 | Tsz Lo Lan Shan Path || Hong Kong Island | 4 | * || [02/07/2016]({filename}./hk_tsz_lo_lan_shan_path.md) ||
-| 109 | The Twins CatchWater || Hong Kong Island | 3 | * || [02/07/2016]({filename}./hk_tsz_lo_lan_shan_path.md) ||
+| 108 | Tsz Lo Lan Shan Path || Hong Kong Island | 4 | * |[02/07/2016]({filename}./hk_tsz_lo_lan_shan_path.md) |||
+| 109 | The Twins CatchWater || Hong Kong Island | 3 | * |[02/07/2016]({filename}./hk_tsz_lo_lan_shan_path.md) |||

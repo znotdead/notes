@@ -14,6 +14,17 @@ Summary: Trails wish to go and done
 1. **Lantau 7,8 in reverse 16 km**
 2. Wilson 8,10 5 + 7 km
 3. Plover_Cove_Reservoir_Country_Trail
+4. Eastern Nature Trail 7km + Wong Nai Chung TreeWalk 2km
+5. Tai Tam Country Trail 5 km + Tai Tam Family Walk 2 km + Tai Tam Reservoir Rd 3km
+6. Hong Pak Country Trail + Quarry Bay Jogging Trail + Quarry Bay Tree Walk 8 km
+7. Mount Parker Rd 8km
+
+### Regions to plan
+1. Aberdeen region
+2. Tai Lam Country Park
+3. Tai Po
+4. Plover Cove
+5. Sai Kung
 
 ### Hike with Erica (plans)
 1. High Junk Peak Country Trail 6.7km (285m up, 482m down)
@@ -21,6 +32,7 @@ Summary: Trails wish to go and done
 3. Hong Pak Country Trail 5km
 4. Ma On Shan Country Trail 4.5km
 5. Tai Tong Nature Trail 3 km
+6. Bowen Fitness trail
 
 ### Long Trails
 **The Hong Kong Trail (50 km)**
@@ -144,7 +156,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 10 | *High Junk Peak Country Trail* || Central New Territories | 6.6 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/HighJunkPeak_Country_Trail/introduction.htm) ||
 | 11 | Lung Ha Wan Country Trail || Central New Territories | 2.3 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lung_Ha_Wan_Country_Trail/introduction.htm) ||
 | 12 | Lung Mun Country Trail || Central New Territories | 5 | *** | [25/06/2016]({filename}./hk_lung_mun_country_trail.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lung_Mun_Country_Trail/introduction.htm) ||
-| 13 | Reception Reservoir Jogging Trail || Central New Territories | 1.7 | jogging ||||
+| 13 | Reception Reservoir Jogging Trail || Central New Territories | 1.7 | jogging |[24/07/2016]({filename}./hk_kam_shan_tree_walk.md)|||
 | 14 | Shek Lei Pui Reservoir Jogging Trail || Central New Territories | 1.8 | jogging ||||
 | 15 | Shing Mun Jogging Trail || Central New Territories | 4.8 | jogging | + | part of Wilson 7 ||
 | 16 | Tai Mo Shan Hiking Practice Trail || Central New Territories | 1 | * | [01/01/2016]({filename}./hk_tai_mo_shan_rotary_park.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/other_route/tai_mo_shan/introduction.htm) | + |

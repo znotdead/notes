@@ -6,7 +6,7 @@ Tags: HK,  hiking
 Slug: hk_kam_shan_tree_walk
 Lang: ru
 Authors: znotdead
-Summary: Kam Shan Tree Walk & Eptions Reservoir Jogging trail
+Summary: Kam Shan Tree Walk & Receptions Reservoir Jogging trail
 
 ### HK: Kam Shan Tree Walk
 **Route:** Tai Po Road - Tai Po Road

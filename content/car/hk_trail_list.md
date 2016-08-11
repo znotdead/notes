@@ -14,10 +14,8 @@ Summary: Trails wish to go and done
 1. **Lantau 7,8 in reverse 16 km**
 2. Wilson 8,10 5 + 7 km
 3. Plover_Cove_Reservoir_Country_Trail
-4. Eastern Nature Trail 7km + Wong Nai Chung TreeWalk 2km
-5. Tai Tam Country Trail 5 km + Tai Tam Family Walk 2 km + Tai Tam Reservoir Rd 3km
-6. Hong Pak Country Trail + Quarry Bay Jogging Trail + Quarry Bay Tree Walk 8 km
-7. Mount Parker Rd 8km
+4. Tai Tam Country Trail 5 km + Tai Tam Family Walk 2 km + Tai Tam Reservoir Rd 3km
+5. Hong Pak Country Trail + Quarry Bay Jogging Trail + Quarry Bay Tree Walk 8 km
 
 ### Regions to plan
 1. Aberdeen region
@@ -32,7 +30,6 @@ Summary: Trails wish to go and done
 3. Hong Pak Country Trail 5km
 4. Ma On Shan Country Trail 4.5km
 5. Tai Tong Nature Trail 3 km
-6. Bowen Fitness trail
 
 ### Long Trails
 **The Hong Kong Trail (50 km)**
@@ -182,7 +179,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 36 | Wong Shek Tree Walk || Sai Kung | 0.41 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=16&lang=en) ||
 | 37 | *Pok Fu Lam Family Walk* || Hong Kong Island | 3.5 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Pokfulam_Family_Walk/introduction.htm) ||
 | 38 | Tai Tam Family Walk || Hong Kong Island | 1.6 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Tai_Tam_Family_Walk/introduction.htm) ||
-| 39 | Eastern Nature Trail || Hong Kong Island | 9 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Eastern_Trail/introduction.htm) ||
+| 39 | Eastern Nature Trail || Hong Kong Island | 9 | ** |[30/07/2016]({filename}./hk_eastern_nature_trail.md)| [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Eastern_Trail/introduction.htm) ||
 | 40 | Aberdeen Nature Trail || Hong Kong Island | 1.2 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Aberdeen_Natural_Trail/introduction.htm) ||
 | 41 | Peak Trail || Hong Kong Island | 6 | * | + | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Peak_Trail/introduction.htm) | + |
 | 42 | Pottinger Peak Country Trail || Hong Kong Island | 1.9 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Pottinger_Peak_Country_Trail/introduction.htm) ||
@@ -199,7 +196,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 53 | Pok Fu Lam Tree Walk || Hong Kong Island | 2.2 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=03&lang=en) ||
 | 54 | Quarry Bay Tree Walk || Hong Kong Island | 1.1 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=02&lang=en) ||
 | 55 | Tai Tam Tree Walk || Hong Kong Island | 0.07 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=01&lang=en) ||
-| 56 | Wong Nai Chung Tree Walk || Hong Kong Island | 2.2 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=05&lang=en) ||
+| 56 | Wong Nai Chung Tree Walk || Hong Kong Island | 2.2 | treewalk |[30/07/2016]({filename}./hk_eastern_nature_trail.md)| [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=05&lang=en) ||
 | 57 | Tei Tong Tsai Country Trail || Lantau | 2 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/TeiTongTsai_Country_Trail/introduction.htm) ||
 | 58 | Keung Shan Country Trail || Lantau | 8.2 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Keung_Shan_country_trail/introduction.htm) ||
 | 59 | Lo Fu Tau Country Trail || Lantau | 3.7 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lo_Fu_Tau_Country_Trail/introduction.htm) ||
@@ -231,8 +228,8 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 85 | Nam Chung Country Trail || North New Territories | 5.5 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Nam_Chung_Country_Trail/introduction.htm) ||
 | 86 | Plover Cove Reservoir Country Trail || North New Territories | 15.5 | **** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Plover_Cove_Reservoir_Country_Trail/introduction.htm) ||
 | 87 | Wu Kau Tang Country Trail  || North New Territories | 2.4 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Wu_Kau_Tang_Country_Trail/introduction.htm) ||
-| 88 | Tai Po Kau Blue Walk || North New Territories | 4.4 | other ||||
-| 89 | Tai Po Kau Brown Walk || North New Territories | 7 | other ||||
+| 88 | Tai Po Kau Blue Walk || North New Territories | 4.4 | other | [07/08/2016]({filename}./hk_tai_po_kau_blue_walk.md) |||
+| 89 | Tai Po Kau Brown Walk || North New Territories | 7 | other | [07/08/2016]({filename}./hk_tai_po_kau_red_walk.md) |||
 | 90 | Tai Po Kau Red Walk || North New Territories | 3.3 | other ||||
 | 91 | Tai Po Kau Yellow Walk || North New Territories | 10.3 | other ||||
 | 92 | Chung Pui Tree Walk || North New Territories | 0.25 | treewalk || [hiking.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=07&lang=en) ||
@@ -253,3 +250,4 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 107 | Shing Mun Jogging Trail || West New Territories | 6 | jogging | [01/07/2016]({filename}./hk_shing_mun_jogging_trail.md) || + |
 | 108 | Tsz Lo Lan Shan Path || Hong Kong Island | 4 | * |[02/07/2016]({filename}./hk_tsz_lo_lan_shan_path.md) |||
 | 109 | The Twins CatchWater || Hong Kong Island | 3 | * |[02/07/2016]({filename}./hk_tsz_lo_lan_shan_path.md) |||
+| 110 | Bowen Fitness Trail || Hong Kong Island | 4 | fitness | [31/07/2016]({filename}./hk_bowen_fitness_trail.md) |||

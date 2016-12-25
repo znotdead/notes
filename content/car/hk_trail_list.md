@@ -178,7 +178,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 35 | Tai Tan Tree Walk || Sai Kung | 0.23 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=08&lang=en) ||
 | 36 | Wong Shek Tree Walk || Sai Kung | 0.41 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=16&lang=en) ||
 | 37 | *Pok Fu Lam Family Walk* || Hong Kong Island | 3.5 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Pokfulam_Family_Walk/introduction.htm) ||
-| 38 | Tai Tam Family Walk || Hong Kong Island | 1.6 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Tai_Tam_Family_Walk/introduction.htm) ||
+| 38 | Tai Tam Family Walk || Hong Kong Island | 1.6 | * | [11.09.2016]({filename}./hk_tai_tam_family_walk.md) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Tai_Tam_Family_Walk/introduction.htm) | + |
 | 39 | Eastern Nature Trail || Hong Kong Island | 9 | ** |[30/07/2016]({filename}./hk_eastern_nature_trail.md)| [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Eastern_Trail/introduction.htm) ||
 | 40 | Aberdeen Nature Trail || Hong Kong Island | 1.2 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Aberdeen_Natural_Trail/introduction.htm) ||
 | 41 | Peak Trail || Hong Kong Island | 6 | * | + | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Peak_Trail/introduction.htm) | + |
@@ -251,3 +251,5 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 108 | Tsz Lo Lan Shan Path || Hong Kong Island | 4 | * |[02/07/2016]({filename}./hk_tsz_lo_lan_shan_path.md) |||
 | 109 | The Twins CatchWater || Hong Kong Island | 3 | * |[02/07/2016]({filename}./hk_tsz_lo_lan_shan_path.md) |||
 | 110 | Bowen Fitness Trail || Hong Kong Island | 4 | fitness | [31/07/2016]({filename}./hk_bowen_fitness_trail.md) |||
+| 111 | Forest track || Central New Territories | 12 | * | [14/08/2016]({filename}./hk_forest_track.md) |||
+| 112 | Tai Tam Waterworks Heritage Trail || Hong Kong Island | 5 | * | [11/09/2016]({filename}./hk_tai_tam_waterworks_heritage_trail.md) || + |

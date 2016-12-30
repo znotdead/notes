@@ -1,4 +1,4 @@
-Title: HK: Trail list
+Title: HK: ALL trails
 Date: 2016-02-19 21:56
 Modified: 2016-12-28 18:28
 Category: Car
@@ -35,7 +35,7 @@ https://connect.garmin.com/modern/activity/1257936189
 **The Hong Kong Trail (50 km)**
 
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | Notes |
------------|------------|--------|------|------------|---------------|
+-----------|------------|--------|------|------------|---------------|-------|
 [1][HK 1] Peak to Pokfulam Reservoir | The Hong Kong Trail | 7.0 | 2.0 | ** | [07/06/2015][hike HK1] [20/11/2016][hike HK1-2]| + |
 [2][HK 2] Pokfulam Reservoir to Peel Rise | The Hong Kong Trail | 4.5 | 1.5 | ** | [07/06/2015][hike HK2] | + |
 [3][HK 3] Peel Rise to Wan Chai Gap | The Hong Kong Trail | 6.5 | 1.75 | ** | [07/06/2015][hike HK3] [29/11/2016][hike HK3-2]| + |
@@ -151,16 +151,16 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | Notes |
 
 Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 -----------|------------|--------|------|------------|---------------|
-[1][M 1] Pak Tam Chung to Long Ke | Maclehose Trail | 10.6 | 3.0 | * | [14.10.2015][hike M1] | + |
-[2][M 2] Long Ke to Pak Tam Au | Maclehose Trail | 13.5 | 5.0 | ** | [14.10.2015][[hike M2]] | + |
-[3][M 3] Pak Tam Au to Kei Ling Ha | Maclehose Trail | 10.2 | 4.0 | *** | [01.10.2015][hike M3] | + |
-[4][M 4] Kei Ling Ha to Tai Lo Shan | Maclehose Trail | 12.7 | 5.0 | *** | [28.11.2015][hike M4] | + |
-[5][M 5] Tai Lo Shan to Tai Po Road ([War Relics Trail]) |Maclehose Trail | 10.6 | 3.0 | ** | [30.05.2015][hike M5] | + |
-[6][M 6] Tai Po Road to Shing Mun | Maclehose Trail | 4.6 | 1.5 | * | [20.09.2015][hike M6]| + |
-[7][M 7] Shing Mun to Lead Mine Pass | Maclehose Trail | 6.2 | 2.5 | ** | [27.05.2015][hike M7] | + |
-[8][M 8] Lead Mine Pass to Twisk | Maclehose Trail | 9.7 | 4.0 | ** | [09.05.2015][hike M8] | + |
-[9][M 9] Twisk to Tin Fu Tsai | Maclehose Trail | 6.3 | 2.5 | * | [11.07.2015][hike M9] | + |
-[10][M 10] Tin Fu Tsai to Tsuen Mun | Maclehose Trail | 15.6 | 5.0 | * | [11.07.2015][hike M10] | + |
+[1][M 1] Pak Tam Chung to Long Ke | Maclehose Trail | 10.6 | 3.0 | * | [14/10/2015][hike M1] | + |
+[2][M 2] Long Ke to Pak Tam Au | Maclehose Trail | 13.5 | 5.0 | ** | [14/10/2015][hike M2] | + |
+[3][M 3] Pak Tam Au to Kei Ling Ha | Maclehose Trail | 10.2 | 4.0 | *** | [01/10/2015][hike M3] | + |
+[4][M 4] Kei Ling Ha to Tai Lo Shan | Maclehose Trail | 12.7 | 5.0 | *** | [28/11/2015][hike M4] | + |
+[5][M 5] Tai Lo Shan to Tai Po Road ([War Relics Trail]) |Maclehose Trail | 10.6 | 3.0 | ** | [30/05/2015][hike M5] | + |
+[6][M 6] Tai Po Road to Shing Mun | Maclehose Trail | 4.6 | 1.5 | * | [20/09/2015][hike M6]| + |
+[7][M 7] Shing Mun to Lead Mine Pass | Maclehose Trail | 6.2 | 2.5 | ** | [27/05/2015][hike M7] | + |
+[8][M 8] Lead Mine Pass to Twisk | Maclehose Trail | 9.7 | 4.0 | ** | [09/05/2015][hike M8] | + |
+[9][M 9] Twisk to Tin Fu Tsai | Maclehose Trail | 6.3 | 2.5 | * | [11/07/2015][hike M9] | + |
+[10][M 10] Tin Fu Tsai to Tsuen Mun | Maclehose Trail | 15.6 | 5.0 | * | [11/07/2015][hike M10] | + |
 
 [M 1]: http://hiking.gov.hk/eng/longtrail/mtrail/mtrail/mtrail01.htm (1)
 [M 2]: http://hiking.gov.hk/eng/longtrail/mtrail/mtrail/mtrail02.htm (2)
@@ -190,11 +190,11 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 
 | № | Trail name | | Territory | Length | Difficulty | Date of trail | Link | saksmlz |
 |---|------------|-|-----------|--------|------------|---------------|------|---------|
-| 1 | Kam Shan Family Walk || Central New Territories | 1 | * | [01/08/2015] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Kam_Shan_Family_Walk/introduction.htm) ||
+| 1 | Kam Shan Family Walk || Central New Territories | 1 | * | [01/08/2015][hike 1] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Kam_Shan_Family_Walk/introduction.htm) ||
 | 2 | Ma On Shan Family Walk || Central New Territories | 0.4 | * ||||
 | 3 | Chuen Lung Family Walk || Central New Territories | 0.5 | * | [25/06/2016][hike 3] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Chuen_Lung_Family_Walk/introduction.htm) || 
 | 4 | Hung Mui Kuk Nature Trail || Central New Territories | 1.3 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Hung%20Mui_Kuk_Nature_Trail/introduction.htm) ||
-| 5 | Pineapple Nature Trail || Central New Territories | 0.8 | * | [19/02/2015] [27/12/2016][hike 5] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Pineapple_DamNature_Trail/introduction.htm) [Report] | + |
+| 5 | Pineapple Nature Trail || Central New Territories | 0.8 | * | 19/02/2015 [27/12/2016][hike 5] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Pineapple_DamNature_Trail/introduction.htm) [Report] | + |
 | 6 | Reservoir Walk || Central New Territories | 6.1 | * | [19/02/2015] | | + |
 | 7 | Eagle's Nest Nature Trail || Central New Territories | 3.2 | * |[24/07/2016][hike 7] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Eagles_Nest_Nature_Trail/introduction.htm) ||
 | 8 | Rotary Club Park Nature Trail || Central New Territories | 0.8 | * | [01/01/2016][hike 8] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Rotary_Park_Nature_Trail/introduction.htm) | + |
@@ -259,13 +259,13 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 67 | Ngong Ping Fun Walk || Lantau | 2.5 | * | + | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/other_route/ngong_ping_fun/introduction.htm) | + |
 | 68 | Islands Nature Heritage Trail - Mui Wo Section || Lantau | 7 | ** | [25/12/2015][hike 68] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/other_route/islands_nature_heritage_trail/introduction.htm) | + |
 | 69 | Islands Nature Heritage Trail - Ngong Ping Section || Lantau | 9 | *** ||||
-| 70 | Islands Nature Heritage Trail - Tai O Section || Lantau | 14 | * | [31/01/2015] || + |
+| 70 | Islands Nature Heritage Trail - Tai O Section || Lantau | 14 | * | 31/01/2015 || + |
 | 71 | Wisdom Path || Lantau | 0.15 | * | + | | + |
 | 72 | Nam Shan Tree Walk || Lantau | 0.44 | treewalk |[24/12/2016][hike 72]| [treewalks](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=10&lang=en) ||
 | 73 | Ngong Ping Tree Walk || Lantau | 0.35 | treewalk | + | [treewalks](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=09&lang=en) | + |
 | 74 | Tai Mei Tuk Family Walk || North New Territories | 1 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Tai_Mei_Tuk_Family_Walk/introduction.htm) ||
 | 75 | Fung Hang Family Walk || North New Territories | 2.3 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/FungHang_Family_Walk/introduction.htm) ||
-| 76 | Hok Tau Reservoir Family Walk || North New Territories | 2.5 | ** | [04/06/2016]) | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Hok_Tau_Family_Walk/introduction.htm) ||
+| 76 | Hok Tau Reservoir Family Walk || North New Territories | 2.5 | ** | 04/06/2016 | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Hok_Tau_Family_Walk/introduction.htm) ||
 | 77 | Lai Chi Wo Nature Trail || North New Territories | 1.2 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Lai_Chi_Wo_Nature_Trail/introduction.htm) ||
 | 78 | Ma Shi Chau Nature Trail || North New Territories | 1.5 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/MaShiChau_Nature_Trail/introduction.htm) ||
 | 79 | Bride's Pool Nature Trail || North New Territories | 0.7 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/BridesPool_Nature_Trail/introduction.htm) ||
@@ -310,6 +310,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 118 | Discovery Bay to Mui Wo || Lantau | 7 | * | [9/06/2016][hike 118] |||
 | 119 | Lantau Link to Disneyland bush walk || Lantau | 7 | *** | [26/12/2016][hike 119] |||
 
+[hike 1]: https://connect.garmin.com/modern/activity/850793855
 [hike 3]: https://connect.garmin.com/modern/activity/1227572219
 [hike 5]: https://connect.garmin.com/modern/activity/1497461174
 [hike 7]: https://connect.garmin.com/modern/activity/1269590371

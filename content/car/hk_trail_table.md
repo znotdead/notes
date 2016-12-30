@@ -8,7 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: Trails wish to go and done
 
-### HK: Trail list
+### HK: Trail table
 
 ### Trips plan
 1. Wilson 8 5km

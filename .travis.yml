@@ -4,12 +4,12 @@ install:
     - pip install -r requirements.txt
     - git clone https://github.com/znotdead/pelican-bootstrap3.git ../pelican-bootstrap3
     - git clone https://github.com/znotdead/pelican_tag_cloud_by_category.git ../pelican_tag_cloud_by_category
+    - env
 script: fab build
 cache: pip
-after_success:
-    - cd output && git init && git config user.name "znotdead" && git config user.email "zhirafchik@gmail.com" && git remote add upstream "https://$GH_TOKEN@github.com/znotdead/znotdead.github.io.git" && git add -A . && git status && git commit -m 'rebuild' && git push -q upstream HEAD:master
+after_success: cd output && git init && git config user.name "znotdead" && git config user.email "zhirafchik@gmail.com" && echo "AAA" && echo ${GH_TOKEN} && git remote add upstream "https://znotdead:${GH_TOKEN}@github.com/znotdead/znotdead.github.io" && git add -A . && git status && git commit -m 'rebuild' && git push -q upstream HEAD:master
+
 env:
     global:
-        secure: "eozm5dtsC5a+5JsgD7Mhq5hNFxWecdUgea6qqnuXYcZNhBB1tRjyRro6hVTa9XkKwzxc0QG6lnFVh8kMFMITxM9Dbx/Jky+Twdx1zDJ0ediNLcKVQx2piuUcINxNMYuB/X4HIx76P7gnwB09CZiQ6kgX9dRBLIzHAXyFkZop+6ImDt2wKWMfkSJ9Q/msoDPSrVw/8RcYxxenYJfunpaKuoeVaDwkJFE1HpL5oc4nDHY8lN9EkyHVNZqCTn5+IcqkHLKinA49+bN1U7nKyDc7xn01b4DlXT1lINEaDmfw+MsD8cQIUWMiOJ8WTUsNSPnGSfc3SonsnxuTkocx4uX06fSFtvl3TYHVQ45jOZhHTs0StjTyaMpxFPhPQXId3aLKRwpK1DFG6Nc0Tl06gfi+fLdmml8u+5dWOduIxWFbnIPqlw7itZ2hXNu0VTStQqPtxMZDxEtHUUzsuXZ1xCOkmdJoRHq72/DSmVb+IREzmgtabwymY7Y571J5txBZHTitBEMxjNbBmR2Q3U4CvSbDZ2FfW27vWStMkuseL5HY9VvMuutDEvhhc+jBF4iqWRYlZYKfUEquxJC39w4PorevPskrmt/YDbuJCdDTbGlQK0f/P2KjMpOYbnt8pSjk9nqstEDALOt4UZvur2omxHCHKTx2J03gJmQzAhbWJOzwEu8="
-
+        - secure: "L4gnir6I4ZUxWqg6JeusXL5p3R1OMuqo6rlOwaYuDV2mjgDK7oNWOVYHxqhLKwPNPbwCvsD3NMXy4n7BZLjSl9u9R6WT1zMgQJjZEF7gWAcujIguxPw0jBsIpInqJVU0wAGavz/1eCUB2if2WfOduhlrtc+7Mo/BWFsaQyv6aCmylB1A6bgbpMpcgfEtTxTVm5SYDxTdp7lm64Zgov4oGqbNOfD3BLiBpS0Vw24H/if4j7kr+E/PFOEHI8+YwQZtfRXPawNRwYlTNAjyDCc3O9NpV42w8D7Ni94rigdmijQTqgJSUevEKVbmI9icTLMiPtQgGQ99dZkVZIsTqKVY1C+l30ApDIcY7Ok6MFK6MlPgnMLmpGwvbh8s9ZpXkaQa14zvS/BZOCXBYAs7w60z+2hRGy2UuL6rTvSfP3/V2PkX4qP2x8leQXTAe7hTu54OUb6Nf/qZU6yFHuzeUYZUbPzhxBbVdlE6Qg1UAX2OJw7iRK+x6KpI5a4z/Ivtlo3VLoB7/jVDF70uMJ6/M1A9va8cyUVVMAM/KDRfgWHRodybPwWAggFJxh6LY/1+K5WP0Hd6M7a51Sxsp/WLx/Vl7ztVCdcMKw9IBKp8cgdCHcWfD1z/2zGpyVYbseDUk2OtTWRhcMExv22L5Ixylqj6oRCZcUqXmvdqzh2zwG9HnZM="
 

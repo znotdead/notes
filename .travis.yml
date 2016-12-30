@@ -5,8 +5,9 @@ install:
     - git clone https://github.com/znotdead/pelican-bootstrap3.git ../pelican-bootstrap3
     - git clone https://github.com/znotdead/pelican_tag_cloud_by_category.git ../pelican_tag_cloud_by_category
 script: fab build
+cache: pip
 after_success:
-    - cd content && git init && git config user.name "znotdead" && git config user.email "zhirafchik@gmail.com" && git remote add upstream "https://$GH_TOKEN@github.com/znotdead/znotdead.github.io.git" && git add -A . && git commit -m 'rebuild' && git push -q upstream HEAD:master
+    - cd content && git init && git config user.name "znotdead" && git config user.email "zhirafchik@gmail.com" && git remote add upstream "https://$GH_TOKEN@github.com/znotdead/znotdead.github.io.git" && git status && git add -A . && git commit -m 'rebuild' && git push -q upstream HEAD:master
 env:
     global:
         secure: "eozm5dtsC5a+5JsgD7Mhq5hNFxWecdUgea6qqnuXYcZNhBB1tRjyRro6hVTa9XkKwzxc0QG6lnFVh8kMFMITxM9Dbx/Jky+Twdx1zDJ0ediNLcKVQx2piuUcINxNMYuB/X4HIx76P7gnwB09CZiQ6kgX9dRBLIzHAXyFkZop+6ImDt2wKWMfkSJ9Q/msoDPSrVw/8RcYxxenYJfunpaKuoeVaDwkJFE1HpL5oc4nDHY8lN9EkyHVNZqCTn5+IcqkHLKinA49+bN1U7nKyDc7xn01b4DlXT1lINEaDmfw+MsD8cQIUWMiOJ8WTUsNSPnGSfc3SonsnxuTkocx4uX06fSFtvl3TYHVQ45jOZhHTs0StjTyaMpxFPhPQXId3aLKRwpK1DFG6Nc0Tl06gfi+fLdmml8u+5dWOduIxWFbnIPqlw7itZ2hXNu0VTStQqPtxMZDxEtHUUzsuXZ1xCOkmdJoRHq72/DSmVb+IREzmgtabwymY7Y571J5txBZHTitBEMxjNbBmR2Q3U4CvSbDZ2FfW27vWStMkuseL5HY9VvMuutDEvhhc+jBF4iqWRYlZYKfUEquxJC39w4PorevPskrmt/YDbuJCdDTbGlQK0f/P2KjMpOYbnt8pSjk9nqstEDALOt4UZvur2omxHCHKTx2J03gJmQzAhbWJOzwEu8="

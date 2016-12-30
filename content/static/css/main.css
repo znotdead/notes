@@ -1,3 +1,5 @@
 blockquote {font-size: 14px;}
 .thumbnail {height: 200px !important;}
 .fullsizeimage {max-height: 100vh !important;}
+
+.notes-overflow {text-overflow: ellipsis; white-space: nowrap; overflow: hidden;}

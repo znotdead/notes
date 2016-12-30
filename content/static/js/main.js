@@ -15,4 +15,7 @@ $(document).ready(function(){
         $(this).addClass('thumbnail');
         $(this).removeClass('fullsizeimage');
     });
+
+    //
+    $('table tr td:last-child').addClass('notes-overflow');
 });

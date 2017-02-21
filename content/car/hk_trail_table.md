@@ -8,6 +8,7 @@ Lang: en
 Authors: znotdead
 Summary: Trails wish to go and done
 
+
 ### HK: Trail table
 
 ### Trips plan
@@ -248,7 +249,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 56 | Wong Nai Chung Tree Walk || Hong Kong Island | 2.2 | treewalk |[30/07/2016][hike 56]| [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=05&lang=en) ||
 | 57 | Tei Tong Tsai Country Trail || Lantau | 2 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/TeiTongTsai_Country_Trail/introduction.htm) ||
 | 58 | Keung Shan Country Trail || Lantau | 8.2 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Keung_Shan_country_trail/introduction.htm) ||
-| 59 | Lo Fu Tau Country Trail || Lantau | 3.7 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lo_Fu_Tau_Country_Trail/introduction.htm) ||
+| 59 | Lo Fu Tau Country Trail || Lantau | 3.7 | *** | [02/01/2017][hike 59]| [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lo_Fu_Tau_Country_Trail/introduction.htm) ||
 | 60 | Shek Pik Country Trail || Lantau | 5.5 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/ShekPik_Country_Trail/introduction.htm) ||
 | 61 | Fan Lau Country Trail || Lantau | 2.1 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Fan_Lau_Country_Trail/introduction.htm) ||
 | 62 | Chi Ma Wan Country Trail || Lantau | 18.5 | **** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/ChiMaWan_country_trail/introduction.htm) ||
@@ -331,6 +332,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [hike 51]: https://connect.garmin.com/modern/activity/1463821383
 [hike 52]: https://connect.garmin.com/modern/activity/1463821383
 [hike 56]: https://connect.garmin.com/modern/activity/1279418345
+[hike 59]: https://connect.garmin.com/modern/activity/1506239078
 [hike 63]: https://connect.garmin.com/modern/activity/949809166
 [hike 64]: https://connect.garmin.com/modern/activity/1493711915
 [hike 66]: https://connect.garmin.com/modern/activity/991407697
@@ -368,5 +370,3 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [hike 117]: https://connect.garmin.com/modern/activity/1479905167
 [hike 118]: https://connect.garmin.com/modern/activity/1206426063
 [hike 119]: https://connect.garmin.com/modern/activity/1496069240
-
-

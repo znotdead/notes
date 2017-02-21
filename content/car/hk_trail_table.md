@@ -13,23 +13,10 @@ Summary: Trails wish to go and done
 
 ### Trips plan
 1. Wilson 8 5km
-2. Plover_Cove_Reservoir_Country_Trail
-3. Tai Tam Country Trail 5 km + Tai Tam Reservoir Rd 3km
-4. Hong Pak Country Trail + Quarry Bay Jogging Trail + Quarry Bay Tree Walk 8 km
-5. Pok Fu Lam Family Walk 3.5km
-6. Ma On Shan Country Trail 4.5km
-7. Tai Tong Nature Trail 3 km
-
-### Regions to plan
-1. Aberdeen region
-2. Tai Lam Country Park
-3. Tai Po
-4. Plover Cove
-5. Sai Kung
-
-### To do report:
-https://connect.garmin.com/modern/activity/1197103931
-https://connect.garmin.com/modern/activity/1257936189
+2. Tai Tam Country Trail 5 km + Tai Tam Reservoir Rd 3km
+3. Pok Fu Lam Family Walk 3.5km
+4. Ma On Shan Country Trail 4.5km
+5. Tai Tong Nature Trail 3 km
 
 
 ### Long Trails
@@ -64,7 +51,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | Notes |
 [hike HK5]: https://connect.garmin.com/modern/activity/809499948
 [hike HK6]: https://connect.garmin.com/modern/activity/809500180
 [hike HK7]: https://connect.garmin.com/modern/activity/795698274
-[hike HK8]:
+[hike HK8]: https://connect.garmin.com/modern/activity/1579005493
 
 **Lantau Trail (70 km)**
 
@@ -195,12 +182,12 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 2 | Ma On Shan Family Walk || Central New Territories | 0.4 | * ||||
 | 3 | Chuen Lung Family Walk || Central New Territories | 0.5 | * | [25/06/2016][hike 3] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Chuen_Lung_Family_Walk/introduction.htm) || 
 | 4 | Hung Mui Kuk Nature Trail || Central New Territories | 1.3 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Hung%20Mui_Kuk_Nature_Trail/introduction.htm) ||
-| 5 | Pineapple Nature Trail || Central New Territories | 0.8 | * | 19/02/2015 [27/12/2016][hike 5] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Pineapple_DamNature_Trail/introduction.htm) [Report] | + |
+| 5 | Pineapple Nature Trail || Central New Territories | 0.8 | * | 19/02/2015 [27/12/2016][hike 5] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Pineapple_DamNature_Trail/introduction.htm) | + |
 | 6 | Reservoir Walk || Central New Territories | 6.1 | * | [19/02/2015] | | + |
 | 7 | Eagle's Nest Nature Trail || Central New Territories | 3.2 | * |[24/07/2016][hike 7] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Eagles_Nest_Nature_Trail/introduction.htm) ||
 | 8 | Rotary Club Park Nature Trail || Central New Territories | 0.8 | * | [01/01/2016][hike 8] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Rotary_Park_Nature_Trail/introduction.htm) | + |
 | 9 | Ma On Shan Country Trail || Central New Territories | 4.5 | ** || [hiking.giv.hk](http://hiking.gov.hk/eng/trail_list/country_trail/MaOnShan_Country_Trail/introduction.htm) ||
-| 10 | High Junk Peak Country Trail || Central New Territories | 6.6 | ** | [02/10/2016][hike 10] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/HighJunkPeak_Country_Trail/introduction.htm) ||
+| 10 | High Junk Peak Country Trail || Central New Territories | 6.6 | ** | [02/10/2016][hike 10] [21/02/2017][hike 10-2] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/HighJunkPeak_Country_Trail/introduction.htm) ||
 | 11 | Lung Ha Wan Country Trail || Central New Territories | 2.3 | ** | [02/10/2016][hike 11] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lung_Ha_Wan_Country_Trail/introduction.htm) ||
 | 12 | Lung Mun Country Trail || Central New Territories | 5 | *** | [25/06/2016][hike 12] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lung_Mun_Country_Trail/introduction.htm) ||
 | 13 | Reception Reservoir Jogging Trail || Central New Territories | 1.7 | jogging |[24/07/2016][hike 13] |||
@@ -233,26 +220,26 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 40 | Aberdeen Nature Trail || Hong Kong Island | 1.2 | * |[23/12/2016][hike 40]| [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Aberdeen_Natural_Trail/introduction.htm) ||
 | 41 | Peak Trail || Hong Kong Island | 6 | * | + | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Peak_Trail/introduction.htm) | + |
 | 42 | Pottinger Peak Country Trail || Hong Kong Island | 1.9 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Pottinger_Peak_Country_Trail/introduction.htm) ||
-| 43 | Hong Pak Country Trail || Hong Kong Island | 3.6 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Hong_Pak_Country_Trail/introduction.htm) ||
+| 43 | Hong Pak Country Trail || Hong Kong Island | 3.6 | * | [16/02/2017][hike 43] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Hong_Pak_Country_Trail/introduction.htm) ||
 | 44 | Tai Tam Country Trail || Hong Kong Island | 5.2 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Tai_Tam_Country_Trail/introduction.htm) ||
-| 45 | Aberdeen Fitness Trail || Hong Kong Island | 2.1 | fitness ||||
+| 45 | Aberdeen Fitness Trail || Hong Kong Island | 2.1 | fitness | [23/12/2016][hike 45] |||
 | 46 | Lung Fu Shan Fitness Trail || Hong Kong Island | 0.75 | * ||||
-| 47 | Quarry Bay Jogging Trail || Hong Kong Island | 2.5 | jogging ||||
-| 48 | Aberdeen Blue Walk || Hong Kong Island | 3.8 | other |[23/12/2016][hike 48]|||
-| 49 | Aberdeen Red Walk || Hong Kong Island | 2.1 | other |[23/12/2016][hike 49]|||
+| 47 | Quarry Bay Jogging Trail || Hong Kong Island | 2.5 | jogging | [16/02/2017][hike 47] |||
+| 48 | Aberdeen Blue Walk || Hong Kong Island | 3.8 | other | [23/12/2016][hike 48]|||
+| 49 | Aberdeen Red Walk || Hong Kong Island | 2.1 | other | [23/12/2016][hike 49]|||
 | 50 | Aberdeen Wheelchair Trail || Hong Kong Island | 0.2 | other | [28/11/2016][hike 50] |||
 | 51 | Aberdeen Yellow Walk || Hong Kong Island | 6.1 |  other | [28/11/2016][hike 51] |||
 | 52 | Aberdeen Tree Walk || Hong Kong Island | 2.5 | treewalk | [28/11/2016][hike 52] | [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=04&lang=en) ||
 | 53 | Pok Fu Lam Tree Walk || Hong Kong Island | 2.2 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=03&lang=en) ||
-| 54 | Quarry Bay Tree Walk || Hong Kong Island | 1.1 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=02&lang=en) ||
+| 54 | Quarry Bay Tree Walk || Hong Kong Island | 1.1 | treewalk | [16/02/2017][hike 54] | [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=02&lang=en) ||
 | 55 | Tai Tam Tree Walk || Hong Kong Island | 0.07 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=01&lang=en) ||
 | 56 | Wong Nai Chung Tree Walk || Hong Kong Island | 2.2 | treewalk |[30/07/2016][hike 56]| [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=05&lang=en) ||
 | 57 | Tei Tong Tsai Country Trail || Lantau | 2 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/TeiTongTsai_Country_Trail/introduction.htm) ||
-| 58 | Keung Shan Country Trail || Lantau | 8.2 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Keung_Shan_country_trail/introduction.htm) ||
+| 58 | Keung Shan Country Trail || Lantau | 8.2 | *** | [04/02/2017][hike 58] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Keung_Shan_country_trail/introduction.htm) ||
 | 59 | Lo Fu Tau Country Trail || Lantau | 3.7 | *** | [02/01/2017][hike 59]| [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lo_Fu_Tau_Country_Trail/introduction.htm) ||
-| 60 | Shek Pik Country Trail || Lantau | 5.5 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/ShekPik_Country_Trail/introduction.htm) ||
-| 61 | Fan Lau Country Trail || Lantau | 2.1 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Fan_Lau_Country_Trail/introduction.htm) ||
-| 62 | Chi Ma Wan Country Trail || Lantau | 18.5 | **** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/ChiMaWan_country_trail/introduction.htm) ||
+| 60 | Shek Pik Country Trail || Lantau | 5.5 | ** | [07/01/2017][hike 60] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/ShekPik_Country_Trail/introduction.htm) ||
+| 61 | Fan Lau Country Trail || Lantau | 2.1 | ** | [04/02/2017][hike 61] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Fan_Lau_Country_Trail/introduction.htm) ||
+| 62 | Chi Ma Wan Country Trail || Lantau | 18.5 | **** | [28/01/2017][hike 62] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/ChiMaWan_country_trail/introduction.htm) ||
 | 63 | Nei Lak Shan Country Trail || Lantau | 5 | ** | [07/10/2015][hike 63] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Nei_Lak_Shan_Country_Trail/introduction.htm) | + |
 | 64 | South Lantau Country Trail || Lantau | 10.3 | ** | [24/12/2016][hike 64] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/South_Lantau_Country_Trail/introduction.htm) ||
 | 65 | Wong Lung Hang Country Trail || Lantau | 2.3 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Wong_Lung_Hang_Country_Trail/introduction.htm) ||
@@ -266,7 +253,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 73 | Ngong Ping Tree Walk || Lantau | 0.35 | treewalk | + | [treewalks](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=09&lang=en) | + |
 | 74 | Tai Mei Tuk Family Walk || North New Territories | 1 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Tai_Mei_Tuk_Family_Walk/introduction.htm) ||
 | 75 | Fung Hang Family Walk || North New Territories | 2.3 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/FungHang_Family_Walk/introduction.htm) ||
-| 76 | Hok Tau Reservoir Family Walk || North New Territories | 2.5 | ** | 04/06/2016 | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Hok_Tau_Family_Walk/introduction.htm) ||
+| 76 | Hok Tau Reservoir Family Walk || North New Territories | 2.5 | ** | [04/06/2016][hike 76] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Hok_Tau_Family_Walk/introduction.htm) ||
 | 77 | Lai Chi Wo Nature Trail || North New Territories | 1.2 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Lai_Chi_Wo_Nature_Trail/introduction.htm) ||
 | 78 | Ma Shi Chau Nature Trail || North New Territories | 1.5 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/MaShiChau_Nature_Trail/introduction.htm) ||
 | 79 | Bride's Pool Nature Trail || North New Territories | 0.7 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/BridesPool_Nature_Trail/introduction.htm) ||
@@ -276,7 +263,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 83 | Lau Shui Heung Country Trail || North New Territories | 4.4 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Lau_Shui_Heung_country_trail/introduction.htm) ||
 | 84 | Hok Tau Country Trail || North New Territories | 2.5 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Hok_Tau_Country_Trail/introduction.htm) ||
 | 85 | Nam Chung Country Trail || North New Territories | 5.5 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Nam_Chung_Country_Trail/introduction.htm) ||
-| 86 | Plover Cove Reservoir Country Trail || North New Territories | 15.5 | **** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Plover_Cove_Reservoir_Country_Trail/introduction.htm) ||
+| 86 | Plover Cove Reservoir Country Trail || North New Territories | 15.5 | **** | [15/01/2017][hike 86] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Plover_Cove_Reservoir_Country_Trail/introduction.htm) ||
 | 87 | Wu Kau Tang Country Trail  || North New Territories | 2.4 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Wu_Kau_Tang_Country_Trail/introduction.htm) ||
 | 88 | Tai Po Kau Blue Walk || North New Territories | 4.4 | other | [07/08/2016][hike 88] |||
 | 89 | Tai Po Kau Brown Walk || North New Territories | 7 | other | |||
@@ -310,6 +297,9 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 117 | Tai Lam reservoir jogging trail || West New Territories | 10 | * | [11/12/2016][hike 117] |||
 | 118 | Discovery Bay to Mui Wo || Lantau | 7 | * | [9/06/2016][hike 118] |||
 | 119 | Lantau Link to Disneyland bush walk || Lantau | 7 | *** | [26/12/2016][hike 119] |||
+| 120 | The Peak Tree Walk and Peak Gardens || Hong Kong Island | 7 | * | [29/01/2017][hike 120] |||
+| 121 | Morning trail || Hong Kong Island | 3 | * | [29/01/2017][hike 121] |||
+| 122 | Ngong Ping 360 rescue trail || Lantau | 7 | *** | [07/01/2017][hike 122] |||
 
 [hike 1]: https://connect.garmin.com/modern/activity/850793855
 [hike 3]: https://connect.garmin.com/modern/activity/1227572219
@@ -317,6 +307,7 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [hike 7]: https://connect.garmin.com/modern/activity/1269590371
 [hike 8]: https://connect.garmin.com/modern/activity/999100902
 [hike 10]: https://connect.garmin.com/modern/activity/1387362321
+[hike 10-2]: https://connect.garmin.com/modern/activity/1535096179
 [hike 11]: https://connect.garmin.com/modern/activity/1387560274
 [hike 12]: https://connect.garmin.com/modern/activity/1227572219
 [hike 13]: https://connect.garmin.com/modern/activity/1269590911
@@ -326,19 +317,29 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [hike 38]: https://connect.garmin.com/modern/activity/1352408824
 [hike 39]: https://connect.garmin.com/modern/activity/1279418345
 [hike 40]: https://connect.garmin.com/modern/activity/1492768069
+[hike 43]: https://connect.garmin.com/modern/activity/1575891329
+[hike 45]: https://connect.garmin.com/modern/activity/1492768069
+[hike 47]: https://connect.garmin.com/modern/activity/1575891329
 [hike 48]: https://connect.garmin.com/modern/activity/1492768069
 [hike 49]: https://connect.garmin.com/modern/activity/1492768069
 [hike 50]: https://connect.garmin.com/modern/activity/1463821383
 [hike 51]: https://connect.garmin.com/modern/activity/1463821383
 [hike 52]: https://connect.garmin.com/modern/activity/1463821383
+[hike 54]: https://connect.garmin.com/modern/activity/1575891329
 [hike 56]: https://connect.garmin.com/modern/activity/1279418345
+[hike 58]: https://connect.garmin.com/modern/activity/1556968548
 [hike 59]: https://connect.garmin.com/modern/activity/1506239078
+[hike 60]: https://connect.garmin.com/modern/activity/1513707534
+[hike 61]: https://connect.garmin.com/modern/activity/1556968548
+[hike 62]: https://connect.garmin.com/modern/activity/1545979980
 [hike 63]: https://connect.garmin.com/modern/activity/949809166
 [hike 64]: https://connect.garmin.com/modern/activity/1493711915
 [hike 66]: https://connect.garmin.com/modern/activity/991407697
 [hike 68]: https://connect.garmin.com/modern/activity/991407697
 [hike 72]: https://connect.garmin.com/modern/activity/1493711915
+[hike 76]: https://connect.garmin.com/modern/activity/1197103931
 [hike 80]: https://connect.garmin.com/modern/activity/1497461174
+[hike 86]: https://connect.garmin.com/modern/activity/1525918946
 [hike 88]: https://connect.garmin.com/modern/activity/1291863158
 [hike 90]: https://connect.garmin.com/modern/activity/1291818450
 [hike 91]: https://connect.garmin.com/modern/activity/1497461174
@@ -370,3 +371,6 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [hike 117]: https://connect.garmin.com/modern/activity/1479905167
 [hike 118]: https://connect.garmin.com/modern/activity/1206426063
 [hike 119]: https://connect.garmin.com/modern/activity/1496069240
+[hike 120]: https://connect.garmin.com/modern/activity/1547550073
+[hike 121]: https://connect.garmin.com/modern/activity/1547620099
+[hike 122]: https://connect.garmin.com/modern/activity/1513707534

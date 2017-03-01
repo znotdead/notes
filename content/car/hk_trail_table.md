@@ -197,18 +197,18 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 | 17 | Clear Water Bay Tree Walk || Central New Territories | 1.2 | treewalk | [02/10/2016][hike 17] | [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=14&lang=en) ||
 | 18 | Kam Shan Tree Walk || Central New Territories | 1.15 | treewalk |[24/07/2016][hike 18] | [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=06&lang=en) ||
 | 19 | Ma On Shan Tree Walk || Central New Territories | 0.44 | treewalk ||||
-| 20 | Sheung Yiu Family Walk || Sai Kung | 1.8 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Sheung_Yiu_Family_Walk/introduction.htm)  ||
-| 21 | Pak Tam Chung Family Walk || Sai Kung | 1.4 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Pak_Tam_Chung_Family_Walk/introduction.htm) ||
+| 20 | Sheung Yiu Family Walk || Sai Kung | 1.8 | * | [26/02/2017][hike 20] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Sheung_Yiu_Family_Walk/introduction.htm)  ||
+| 21 | Pak Tam Chung Family Walk || Sai Kung | 1.4 | * | [26/02/2017][hike 21] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Pak_Tam_Chung_Family_Walk/introduction.htm) ||
 | 22 | Wong Shek Family Walk || Sai Kung | 2 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/family_walk/Wong_Shek_Family_Walk/introduction.htm) ||
-| 23 | Pak Tam Chung Nature Trail || Sai Kung | 0.9 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/PakTam_Chung_Nature_Trail/introduction.htm) ||
+| 23 | Pak Tam Chung Nature Trail || Sai Kung | 0.9 | * | [26/02/2017][hike 23] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/PakTam_Chung_Nature_Trail/introduction.htm) ||
 | 24 | Tsiu Hang Nature Trail || Sai Kung | 0.8 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Tsiu_Hang_NatureTrail/introduction.htm) ||
 | 25 | Wan Tsai Nature Trail || Sai Kung | 1 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/nature_Trail/Wan_Tsai_Natural_Trail/introduction.htm) ||
-| 26 | Pak Tam Chung Hiking Practice Trail || Sai Kung | 0.4 | * || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/other_route/pak_tam_chung/introduction.htm) ||
+| 26 | Pak Tam Chung Hiking Practice Trail || Sai Kung | 0.4 | * | [26/02/2017][hike 26]| [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/other_route/pak_tam_chung/introduction.htm) ||
 | 27 | Pak Tam Chung Wheelchair Trail || Sai Kung | 0.64 | * ||||
-| 28 | Sheung Yiu Country Trail || Sai Kung | 3.3 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/SheungYiuCountryTrail/introduction.htm) ||
-| 29 | Pak Tam Country Trail || Sai Kung | 1.8 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Pak_Tam_Country_Trail/introduction.htm) ||
+| 28 | Sheung Yiu Country Trail || Sai Kung | 3.3 | ** | [26/02/2017][hike 28] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/SheungYiuCountryTrail/introduction.htm) ||
+| 29 | Pak Tam Country Trail || Sai Kung | 1.8 | ** | [26/02/2017][hike 29] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Pak_Tam_Country_Trail/introduction.htm) ||
 | 30 | Cheung Sheung Country Trail || Sai Kung | 4.2 | ** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Cheung_Sheung_Country_Trail/introduction.htm) ||
-| 31 | Luk Wu Country Trail || Sai Kung | 4.7 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Luk_Wu_Country_Trail/introduction.htm) ||
+| 31 | Luk Wu Country Trail || Sai Kung | 4.7 | *** | [26/02/2017][hike 31] | [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Luk_Wu_Country_Trail/introduction.htm) ||
 | 32 | Tai Tan Country Trail || Sai Kung | 6.7 | *** || [hiking.gov.hk](http://hiking.gov.hk/eng/trail_list/country_trail/Tai_Tan_Country_Trail/introduction.htm) ||
 | 33 | Kei Ling Ha Tree Walk || Sai Kung | 0.65 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=13&lang=en) ||
 | 34 | Pak Tam Chung Tree Walk || Sai Kung | 0.58 | treewalk || [treewalks.gov.hk](http://www.treewalks.gov.hk/treewalk/index_walk.php?wid=15&lang=en) ||
@@ -314,6 +314,13 @@ Trail name | Long Trail | Length | Time | Difficulty | Date of trail | saksmlz |
 [hike 16]: https://connect.garmin.com/modern/activity/999100902
 [hike 17]: https://connect.garmin.com/modern/activity/1387560274
 [hike 18]: https://connect.garmin.com/modern/activity/1269590911
+[hike 20]: https://connect.garmin.com/modern/activity/1594472225
+[hike 21]: https://connect.garmin.com/modern/activity/1594472225
+[hike 23]: https://connect.garmin.com/modern/activity/1594472225
+[hike 26]: https://connect.garmin.com/modern/activity/1594472225
+[hike 28]: https://connect.garmin.com/modern/activity/1594472225
+[hike 29]: https://connect.garmin.com/modern/activity/1594472225
+[hike 31]: https://connect.garmin.com/modern/activity/1594472225
 [hike 38]: https://connect.garmin.com/modern/activity/1352408824
 [hike 39]: https://connect.garmin.com/modern/activity/1279418345
 [hike 40]: https://connect.garmin.com/modern/activity/1492768069
